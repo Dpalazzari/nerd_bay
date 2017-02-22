@@ -15,4 +15,10 @@ class SessionsController < ApplicationController
     end
   end
 
+  def destroy
+    reset_session
+    flash[:info] = "See you later, nerd."
+    redirect_to root_path
+  end
+
 end
