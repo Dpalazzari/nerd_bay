@@ -5,47 +5,6 @@
         1,
         null
       ],
-      "/Users/drewpalazzari/Documents/1610/M3/Projects/nerd_bay/app/controllers/users_controller.rb": [
-        1,
-        null,
-        1,
-        2,
-        null,
-        null,
-        1,
-        2,
-        2,
-        1,
-        1,
-        1,
-        null,
-        1,
-        1,
-        null,
-        null,
-        null,
-        1,
-        null,
-        null,
-        null,
-        1,
-        null,
-        1,
-        2,
-        null,
-        null,
-        null
-      ],
-      "/Users/drewpalazzari/Documents/1610/M3/Projects/nerd_bay/app/controllers/application_controller.rb": [
-        1,
-        1,
-        1,
-        null,
-        1,
-        4,
-        null,
-        null
-      ],
       "/Users/drewpalazzari/Documents/1610/M3/Projects/nerd_bay/app/models/user.rb": [
         1,
         1,
@@ -59,7 +18,48 @@
         1,
         null
       ],
+      "/Users/drewpalazzari/Documents/1610/M3/Projects/nerd_bay/app/controllers/application_controller.rb": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "/Users/drewpalazzari/Documents/1610/M3/Projects/nerd_bay/app/controllers/home_controller.rb": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/drewpalazzari/Documents/1610/M3/Projects/nerd_bay/app/controllers/users_controller.rb": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         0,
         0,
         0,
@@ -68,6 +68,6 @@
         0
       ]
     },
-    "timestamp": 1487726851
+    "timestamp": 1487727012
   }
 }
