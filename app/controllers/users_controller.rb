@@ -17,6 +17,11 @@ class UsersController < ApplicationController
   end
 
   def show
+    if current_user
+      render :show
+    else
+      render file: "/public/404"
+    end
   end
 
   private
