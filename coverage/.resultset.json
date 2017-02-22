@@ -5,10 +5,11 @@
         1,
         null
       ],
-      "/Users/drewpalazzari/Documents/1610/M3/Projects/nerd_bay/app/controllers/home_controller.rb": [
+      "/Users/drewpalazzari/Documents/1610/M3/Projects/nerd_bay/app/controllers/users_controller.rb": [
         1,
         null,
         1,
+        null,
         null,
         null,
         null
@@ -18,12 +19,20 @@
         1,
         null
       ],
+      "/Users/drewpalazzari/Documents/1610/M3/Projects/nerd_bay/app/controllers/home_controller.rb": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "/Users/drewpalazzari/Documents/1610/M3/Projects/nerd_bay/app/models/application_record.rb": [
         0,
         0,
         0
       ]
     },
-    "timestamp": 1487721825
+    "timestamp": 1487725556
   }
 }
