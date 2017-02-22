@@ -5,6 +5,7 @@
   <%= bootstrap_form_for @user do |f| %>
     <%= f.text_field :name, placeholder: 'Your Name', skip_label: true %>
     <%= f.email_field :email, placeholder: 'Your email: name@example.com', skip_label: true %>
+    <%= f.text_field :city, placeholder: 'Your city: Denver', skip_label: true %>
     <%= f.password_field :password, placeholder: 'Your new password', skip_label: true %>
     <%= f.submit 'Create User', {class: "btn btn-info btn-block"}%>
   <% end %>

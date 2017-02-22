@@ -6,6 +6,7 @@ RSpec.describe "Visitor can create a new account" do
 
     fill_in 'user[name]', with: 'Drew'
     fill_in 'user[email]', with: 'd@d'
+    fill_in 'user[city]', with: 'Denver'
     fill_in 'user[password]', with: 'password'
     click_on 'Create User'
 
@@ -20,9 +21,9 @@ RSpec.describe "Visitor can create a new account" do
     click_on "Create Account"
     expect(current_path).to eq(new_user_path)
 
-
     fill_in 'user[name]', with: 'Drew'
     fill_in 'user[email]', with: 'd@d'
+    fill_in 'user[city]', with: 'Denver'
     fill_in 'user[password]', with: 'password'
     click_on 'Create User'
 
