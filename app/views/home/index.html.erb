@@ -13,7 +13,7 @@
             <%= image_tag(stream.logo, class:'streamer-logo') %>
           </div>
           <div class='col-md-6'>
-            <li>Streamer: <%= link_to stream.streamer, stream.url %></li>
+            <li>Streamer: <%= link_to stream.streamer, stream.url, target: "_blank" %></li>
             <li>Total Views: <%= stream.views %></li>
             <li>Followers: <%= stream.followers %></li>
           </div>
