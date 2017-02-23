@@ -22,13 +22,36 @@
         1,
         null,
         1,
-        9,
-        9,
+        10,
+        10,
         null,
-        9,
-        9,
+        10,
+        10,
         null,
+        10,
+        null,
+        null,
+        null
+      ],
+      "/Users/drewpalazzari/Documents/1610/M3/Projects/nerd_bay/app/site_models/twitch.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        225,
+        225,
+        225,
+        225,
+        225,
+        225,
+        null,
+        null,
+        null,
+        1,
         9,
+        225,
+        null,
         null,
         null,
         null
@@ -49,29 +72,6 @@
         null,
         1,
         41,
-        null,
-        null
-      ],
-      "/Users/drewpalazzari/Documents/1610/M3/Projects/nerd_bay/app/site_models/twitch.rb": [
-        1,
-        null,
-        1,
-        null,
-        1,
-        200,
-        200,
-        200,
-        200,
-        200,
-        200,
-        null,
-        null,
-        null,
-        1,
-        8,
-        200,
-        null,
-        null,
         null,
         null
       ],
@@ -145,6 +145,6 @@
         null
       ]
     },
-    "timestamp": 1487810244
+    "timestamp": 1487811472
   }
 }
