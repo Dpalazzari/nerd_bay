@@ -20,3 +20,24 @@
     <% end %>
   </table>
 </div>
+
+<div class='container'>
+  <h1>Top 10 Movies Out Right Now</h1>
+
+  <table class = "table">
+    <tr>
+      <th>Title</th>
+      <th>release</th>
+      <th></th>
+      <th>Overview</th>
+    </tr>
+    <% @movies.take(10).each do |movie|%>
+      <tr>
+        <td><%= movie.title %></td>
+        <td><%= movie.release %></td>
+        <td><img src="https://image.tmdb.org/t/p/original<%= movie.image %>" class='img-responsive'></td>
+        <td><%= movie.overview %></td>
+      </tr>
+    <% end %>
+  </table>
+</div>
