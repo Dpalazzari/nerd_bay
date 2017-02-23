@@ -7,8 +7,8 @@ class Twitch
     @logo       = attributes[:channel][:logo]
     @streamer   = attributes[:channel][:name]
     @url        = attributes[:channel][:url]
-    @views      = attributes[:channel][:views]
-    @followers  = attributes[:channel][:followers]
+    @views      = attributes[:channel][:views].to_i
+    @followers  = attributes[:channel][:followers].to_i
   end
 
 
