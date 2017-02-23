@@ -1,28 +1,22 @@
 <div class='container'>
-  <div class='col-md-4'>
-    
-  </div>
+  <h1>Top 10 Twitch Streamers on Right Now</h1>
 
-  <div class='col-md-4'>
-    <ol class='twitch-list'>
-    <h2>Top 25 Twitch Streamers</h2>
-    <% @streams.each do |stream| %>
-      <li><%= stream.game %></li>
-        <ul>
-          <div class='col-md-6'>
-            <%= image_tag(stream.logo, class:'streamer-logo') %>
-          </div>
-          <div class='col-md-6'>
-            <li>Streamer: <%= link_to stream.streamer, stream.url, target: "_blank" %></li>
-            <li>Total Views: <%= stream.views %></li>
-            <li>Followers: <%= stream.followers %></li>
-          </div>
-        </ul>
+  <table class = "table">
+    <tr>
+      <th>Game</th>
+      <th>Streamer</th>
+      <th></th>
+      <th>Total Views</th>
+      <th>Total Followers</th>
+    </tr>
+    <% @streams.take(10).each do |stream|%>
+      <tr>
+        <td><%= stream.game %></td>
+        <td><%= link_to stream.streamer, stream.url, target: "_blank" %></td>
+        <td><%= image_tag(stream.logo, class:'streamer-logo') %></td>
+        <td><%= stream.views %></td>
+        <td><%= stream.followers %></td>
+      </tr>
     <% end %>
-    </ol>
-  </div>
-
-  <div class='col-md-4'>
-    
-  </div>
+  </table>
 </div>
