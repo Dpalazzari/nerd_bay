@@ -1,3 +1,14 @@
 <%= current_user.name %>
 <%= current_user.email %>
 <%= current_user.city %>
+
+<section class='weather'>
+<h1>Today's Forecast: </h1>
+    <h3><%= @weather.conditions %></h3>
+    <p><%= @weather.description %></p>
+    <li>Current Temperature: <%= @weather.temp %></li>
+    <li>Today's Max temp: <%= @weather.max_temp %></li>
+    <li>Today's Min temp: <%= @weather.min_temp %></li>
+    <li>Wind Speed: <%= @weather.wind_speed %> mps</li>
+    <li>Visibility: <%= @weather.visibility %> meters</li>
+</section>
