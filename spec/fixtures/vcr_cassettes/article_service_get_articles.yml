@@ -1,0 +1,73 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://newsapi.org/v1/articles?apiKey=8e104a7dd2be4f42a6330ca513c5c64e&sortBy=top&source=ign
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.11.0
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache
+      Pragma:
+      - no-cache
+      Content-Type:
+      - application/json; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Fri, 24 Feb 2017 21:08:02 GMT
+      Content-Length:
+      - '4707'
+    body:
+      encoding: UTF-8
+      string: '{"status":"ok","source":"ign","sortBy":"top","articles":[{"author":"Alex
+        Osborn","title":"Black Lightning: Cress Williams Cast as the DC Superhero
+        in Berlanti/CW Series - IGN","description":"Hart of Dixie star Cress Williams
+        has been cast in the title role for Greg Berlanti''s upcoming DC drama.","url":"http://www.ign.com/articles/2017/02/24/black-lightning-cress-williams-cast-as-the-dc-superhero-in-berlanticw-series?abthid=58b09a40c6288d1776000019","urlToImage":"http://assets2.ignimgs.com/2016/09/01/blacklightningjpg-42cbd3_1280w.jpg","publishedAt":"2017-02-24T20:40:32Z"},{"author":null,"title":"Nintendo
+        Switch Compared to Everything (Sort of) - IGN Video","description":"This is
+        what the Nintendo Switch looks next to a bunch of other gaming consoles and
+        controllers.","url":"http://www.ign.com/videos/2017/02/24/nintendo-switch-compared-to-everything-sort-of","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/23/switch1-1487897290742_1280w.jpg","publishedAt":"2017-02-24T20:30:00Z"},{"author":null,"title":"Iron
+        Fist Stars on Bringing the Martial Arts Master to Netflix - IGN Video","description":"Finn
+        Jones and Jessica Henwick discuss the relationship between Danny Rand and
+        Colleen Wing, creating martial arts magic for Netflix, and more.","url":"http://www.ign.com/videos/2017/02/24/iron-fist-stars-on-bringing-the-martial-arts-master-to-netflix","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/23/if-1487885134425_1280w.jpg","publishedAt":"2017-02-24T20:02:00Z"},{"author":"Adam
+        Sligar","title":"Apply to IGN''s 2017 Code-Foo Internship Program! - IGN","description":"Are
+        you studying to be a software engineer? You can sign up for a paid, six-week
+        internship at IGN in San Francisco.","url":"http://www.ign.com/articles/2017/02/17/apply-to-igns-2017-code-foo-internship-program?abthid=58ab50cc2df79e8459000018","urlToImage":"http://assets1.ignimgs.com/2017/02/17/code-foo-blogroll-1487359419479_1280w.jpg","publishedAt":"2017-02-18T01:00:07Z"},{"author":"Mike
+        Rougeau","title":"Get Out Review - IGN","description":"Director Jordan Peele''s
+        Get Out is a Key and Peele sketch with the slider tuned to horror.","url":"http://www.ign.com/articles/2017/02/23/get-out-review-2","urlToImage":"http://assets1.ignimgs.com/2017/02/15/get-out-1920-1487184856638_1280w.jpg","publishedAt":"2017-02-23T00:00:18Z"},{"author":"Alex
+        Osborn","title":"Overwatch Shares Another Teaser for New Character - IGN","description":"A
+        new teaser adds weight to the speculation that Efi Oladele (or one of her
+        robotic creations) may soon join Blizzard''s hero shooter.","url":"http://www.ign.com/articles/2017/02/24/overwatch-shares-another-teaser-for-new-character","urlToImage":"http://assets2.ignimgs.com/2016/10/06/overwatch1280jpg-19afa21280wjpg-f9a931_1280w.jpg","publishedAt":"2017-02-24T19:42:50Z"},{"author":"Daemon
+        Hatfield","title":"Game Scoop! 425: The Most Iconic Video Games Set in Each
+        U.S. State - IGN","description":"This week on IGN''s video game talk show:
+        The state of games, Xbox Scorpio, Horizon Zero dawn, and more.","url":"http://www.ign.com/articles/2017/02/24/game-scoop-425-the-most-iconic-video-games-set-in-each-us-state","urlToImage":"http://assets1.ignimgs.com/2017/02/24/gamesbystate-1280-1487963347100_1280w.jpg","publishedAt":"2017-02-24T19:10:35Z"},{"author":null,"title":"Nintendo
+        Switch Holds Off On Fan Favorite - IGN Daily Fix - IGN Video","description":"Nintendo
+        announces new indie game event and will the Switch have Virtual Console at
+        launch? Plus, Mass Effect: Andromeda get a new gameplay trailer.","url":"http://www.ign.com/videos/2017/02/24/nintendo-switch-holds-off-on-fan-favorite-ign-daily-fix","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/24/thefixswitchnovirtualconsole-1487961771849_1280w.jpg","publishedAt":"2017-02-24T18:43:00Z"},{"author":"Chris
+        Reed","title":"Everything You Need to Know About The Legend of Zelda: Breath
+        of the Wild - IGN","description":"The Legend of Zelda: Breath of the Wild
+        is almost upon us. Get all caught up before it''s out.","url":"http://www.ign.com/articles/2017/02/24/everything-you-need-to-know-about-the-legend-of-zelda-breath-of-the-wild","urlToImage":"http://assets1.ignimgs.com/2016/06/22/zelda1280jpg-6aae24_1280w.jpg","publishedAt":"2017-02-24T18:13:07Z"},{"author":null,"title":"Power
+        Rangers - All Trailers (2017) - IGN Video","description":"From the awesome
+        reveal trailer to the TV spot, this is every frame we''ve seen from Power
+        Rangers.","url":"http://www.ign.com/videos/2017/02/24/power-rangers-all-trailers-2017","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/24/powerrangers-1487960016603_1280w.jpg","publishedAt":"2017-02-24T18:13:00Z"}]}'
+    http_version: 
+  recorded_at: Fri, 24 Feb 2017 21:08:11 GMT
+recorded_with: VCR 3.0.3
