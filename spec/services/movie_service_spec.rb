@@ -18,4 +18,14 @@ describe MovieService do
       end
     end
   end
+
+  context '.obtain_poster(id)' do
+    it 'returns the poster url path' do
+      VCR.use_cassette("movie_service.obtain_poster") do
+        poster = MovieService.obtain_poster(329865)
+
+        expect(poster).to be_a(String)
+      end
+    end
+  end
 end
