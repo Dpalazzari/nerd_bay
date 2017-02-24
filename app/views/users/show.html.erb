@@ -1,3 +1,12 @@
-<%= current_user.name %>
-<%= current_user.email %>
-<%= current_user.city %>
+<h1 class='welcome'>Welcome to Nerd Bay, <%= current_user.name %></h1>
+
+<section class='weather'>
+<h1>Today's Forecast for <%= current_user.city %> </h1>
+    <h3>Outside: <%= @weather.conditions %></h3>
+    <p>Description: <%= @weather.description %></p>
+    <li>Current Temperature: <%= @weather.temp %> °C</li>
+    <li>Today's Max temp: <%= @weather.max_temp %> °C</li>
+    <li>Today's Min temp: <%= @weather.min_temp %> °C</li>
+    <li>Wind Speed: <%= @weather.wind_speed %> mps</li>
+    <li>Visibility: <%= @weather.visibility %> meters</li>
+</section>

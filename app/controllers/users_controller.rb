@@ -18,7 +18,7 @@ class UsersController < ApplicationController
 
   def show
     if current_user
-      render :show
+      @weather = Weather.get_data(current_user.city)
     else
       render file: "/public/404"
     end

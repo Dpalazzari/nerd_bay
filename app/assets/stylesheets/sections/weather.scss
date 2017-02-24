@@ -1,0 +1,19 @@
+.weather{
+  margin: auto;
+  background-image: url("http://www.cray.com/blog/wp-content/uploads/2015/09/Weather-Blog-Image.jpg");
+  border: 2px solid #418CAB;
+  width: 50%;
+  height: 110%;
+  h1{
+    text-align: center;
+    color: #418CAB;
+  }
+  li{
+    font-weight: bold;
+    padding-left: 10px;
+    padding-bottom: 5px;
+  }
+  p{
+    text-indent: 10px;
+  }
+}
