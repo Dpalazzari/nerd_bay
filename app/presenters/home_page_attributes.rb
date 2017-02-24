@@ -8,4 +8,8 @@ class HomePageAttributes
     MovieDatabase.now_playing
   end
 
+  def articles
+    IgnArticles.newest
+  end
+
 end
