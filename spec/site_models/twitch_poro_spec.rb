@@ -41,12 +41,6 @@ describe Twitch do
       
       expect(streams).to be_an(Array)
       expect(stream).to be_a(Twitch)
-      expect(stream.game).to eq(attributes[:game])
-      expect(stream.streamer).to eq(attributes[:channel][:name])
-      expect(stream.logo).to eq(attributes[:channel][:logo])
-      expect(stream.url).to eq(attributes[:channel][:url])
-      expect(stream.views).to eq(attributes[:channel][:views])
-      expect(stream.followers).to eq(attributes[:channel][:followers])
       expect(stream.views).to be_a(Integer)
       expect(stream.followers).to be_a(Integer)
     end
