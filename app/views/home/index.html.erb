@@ -9,7 +9,7 @@
       <th>Total Views</th>
       <th>Total Followers</th>
     </tr>
-    <% @streams.take(10).each do |stream|%>
+    <% @presenter.streams.take(10).each do |stream|%>
       <tr>
         <td><%= stream.game %></td>
         <td><%= link_to stream.streamer, stream.url, target: "_blank", class:'btn btn-info btn-sm' %></td>
@@ -32,7 +32,7 @@
       <th></th>
       <th>Overview</th>
     </tr>
-    <% @movies.take(10).each do |movie|%>
+    <% @presenter.movies.take(10).each do |movie|%>
       <tr>
         <td><%= movie.title %></td>
         <td><%= movie.release %></td>
