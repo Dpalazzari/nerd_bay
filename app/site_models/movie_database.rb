@@ -4,7 +4,7 @@ class MovieDatabase
 
   def initialize(attributes={})
     @title     = attributes[:title]
-    @overview  = attributes[:overview]
+    @overview  = format_overview(attributes[:overview])
     @release   = attributes[:release_date]
     @image     = get_image(attributes[:id])
   end
@@ -17,6 +17,14 @@ class MovieDatabase
 
   def get_image(id)
     MovieService.obtain_poster(id)
+  end
+
+  def format_overview(description)
+    if description
+      return description[0...250] + '...'
+    else
+      return "No description"
+    end
   end
 
 end
