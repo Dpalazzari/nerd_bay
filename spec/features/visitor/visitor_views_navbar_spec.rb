@@ -10,6 +10,8 @@ RSpec.describe 'Visitor', type: :feature do
         expect(page).to have_link('Home')
         expect(page).to have_link('Sign Up')
         expect(page).to have_link('Login')
+        expect(page).to_not have_link('Logout')
+        expect(page).to_not have_link('Profile')
       end
     end
   end
