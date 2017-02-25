@@ -25,7 +25,7 @@ http_interactions:
       Content-Type:
       - application/json;charset=utf-8
       Date:
-      - Sat, 25 Feb 2017 16:41:41 GMT
+      - Sat, 25 Feb 2017 16:54:24 GMT
       Server:
       - openresty
       Vary:
@@ -35,9 +35,9 @@ http_interactions:
       X-Ratelimit-Remaining:
       - '18'
       X-Ratelimit-Reset:
-      - '1488040903'
+      - '1488041667'
       Content-Length:
-      - '5413'
+      - '5414'
       Connection:
       - keep-alive
     body:
@@ -326,8 +326,8 @@ http_interactions:
         dXJlcyIsImJhY2tkcm9wX3BhdGgiOiJcL3ZpZnFEeVBPQjZqZDV2d1AyU0lx
         V050WFVIdS5qcGciLCJwb3B1bGFyaXR5IjoxMi45NzQ5NSwidm90ZV9jb3Vu
         dCI6NDU1LCJ2aWRlbyI6ZmFsc2UsInZvdGVfYXZlcmFnZSI6Ny42fV0sImRh
-        dGVzIjp7Im1heGltdW0iOiIyMDE3LTAzLTA3IiwibWluaW11bSI6IjIwMTct
-        MDEtMjQifSwidG90YWxfcGFnZXMiOjMyLCJ0b3RhbF9yZXN1bHRzIjo2Mzd9
+        dGVzIjp7Im1heGltdW0iOiIyMDE3LTAzLTA1IiwibWluaW11bSI6IjIwMTct
+        MDEtMjIifSwidG90YWxfcGFnZXMiOjMzLCJ0b3RhbF9yZXN1bHRzIjo2NDN9
     http_version: 
-  recorded_at: Sat, 25 Feb 2017 16:41:42 GMT
+  recorded_at: Sat, 25 Feb 2017 16:54:26 GMT
 recorded_with: VCR 3.0.3
