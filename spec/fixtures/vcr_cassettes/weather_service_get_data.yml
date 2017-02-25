@@ -21,7 +21,7 @@ http_interactions:
       Server:
       - openresty
       Date:
-      - Sat, 25 Feb 2017 19:12:38 GMT
+      - Sat, 25 Feb 2017 19:19:12 GMT
       Content-Type:
       - application/json; charset=utf-8
       Content-Length:
@@ -41,5 +41,5 @@ http_interactions:
       string: '{"coord":{"lon":-104.98,"lat":39.74},"weather":[{"id":800,"main":"Clear","description":"clear
         sky","icon":"01d"}],"base":"stations","main":{"temp":-0.16,"pressure":1012,"humidity":40,"temp_min":-2,"temp_max":2},"visibility":16093,"wind":{"speed":3.6,"deg":360},"clouds":{"all":1},"dt":1488047760,"sys":{"type":1,"id":602,"message":0.0343,"country":"US","sunrise":1488029833,"sunset":1488070131},"id":5419384,"name":"Denver","cod":200}'
     http_version: 
-  recorded_at: Sat, 25 Feb 2017 19:12:37 GMT
+  recorded_at: Sat, 25 Feb 2017 19:19:11 GMT
 recorded_with: VCR 3.0.3
