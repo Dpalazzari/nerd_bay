@@ -16,4 +16,8 @@ class HomePageAttributes
     HackerArticles.top_articles
   end
 
+  def espn_articles
+    EspnArticles.top_articles
+  end
+
 end
