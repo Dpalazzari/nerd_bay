@@ -33,41 +33,50 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Fri, 24 Feb 2017 21:08:02 GMT
+      - Sat, 25 Feb 2017 16:29:24 GMT
       Content-Length:
-      - '4707'
+      - '5328'
     body:
       encoding: UTF-8
-      string: '{"status":"ok","source":"ign","sortBy":"top","articles":[{"author":"Alex
-        Osborn","title":"Black Lightning: Cress Williams Cast as the DC Superhero
-        in Berlanti/CW Series - IGN","description":"Hart of Dixie star Cress Williams
-        has been cast in the title role for Greg Berlanti''s upcoming DC drama.","url":"http://www.ign.com/articles/2017/02/24/black-lightning-cress-williams-cast-as-the-dc-superhero-in-berlanticw-series?abthid=58b09a40c6288d1776000019","urlToImage":"http://assets2.ignimgs.com/2016/09/01/blacklightningjpg-42cbd3_1280w.jpg","publishedAt":"2017-02-24T20:40:32Z"},{"author":null,"title":"Nintendo
-        Switch Compared to Everything (Sort of) - IGN Video","description":"This is
-        what the Nintendo Switch looks next to a bunch of other gaming consoles and
-        controllers.","url":"http://www.ign.com/videos/2017/02/24/nintendo-switch-compared-to-everything-sort-of","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/23/switch1-1487897290742_1280w.jpg","publishedAt":"2017-02-24T20:30:00Z"},{"author":null,"title":"Iron
-        Fist Stars on Bringing the Martial Arts Master to Netflix - IGN Video","description":"Finn
-        Jones and Jessica Henwick discuss the relationship between Danny Rand and
-        Colleen Wing, creating martial arts magic for Netflix, and more.","url":"http://www.ign.com/videos/2017/02/24/iron-fist-stars-on-bringing-the-martial-arts-master-to-netflix","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/23/if-1487885134425_1280w.jpg","publishedAt":"2017-02-24T20:02:00Z"},{"author":"Adam
-        Sligar","title":"Apply to IGN''s 2017 Code-Foo Internship Program! - IGN","description":"Are
-        you studying to be a software engineer? You can sign up for a paid, six-week
-        internship at IGN in San Francisco.","url":"http://www.ign.com/articles/2017/02/17/apply-to-igns-2017-code-foo-internship-program?abthid=58ab50cc2df79e8459000018","urlToImage":"http://assets1.ignimgs.com/2017/02/17/code-foo-blogroll-1487359419479_1280w.jpg","publishedAt":"2017-02-18T01:00:07Z"},{"author":"Mike
-        Rougeau","title":"Get Out Review - IGN","description":"Director Jordan Peele''s
-        Get Out is a Key and Peele sketch with the slider tuned to horror.","url":"http://www.ign.com/articles/2017/02/23/get-out-review-2","urlToImage":"http://assets1.ignimgs.com/2017/02/15/get-out-1920-1487184856638_1280w.jpg","publishedAt":"2017-02-23T00:00:18Z"},{"author":"Alex
-        Osborn","title":"Overwatch Shares Another Teaser for New Character - IGN","description":"A
-        new teaser adds weight to the speculation that Efi Oladele (or one of her
-        robotic creations) may soon join Blizzard''s hero shooter.","url":"http://www.ign.com/articles/2017/02/24/overwatch-shares-another-teaser-for-new-character","urlToImage":"http://assets2.ignimgs.com/2016/10/06/overwatch1280jpg-19afa21280wjpg-f9a931_1280w.jpg","publishedAt":"2017-02-24T19:42:50Z"},{"author":"Daemon
-        Hatfield","title":"Game Scoop! 425: The Most Iconic Video Games Set in Each
-        U.S. State - IGN","description":"This week on IGN''s video game talk show:
-        The state of games, Xbox Scorpio, Horizon Zero dawn, and more.","url":"http://www.ign.com/articles/2017/02/24/game-scoop-425-the-most-iconic-video-games-set-in-each-us-state","urlToImage":"http://assets1.ignimgs.com/2017/02/24/gamesbystate-1280-1487963347100_1280w.jpg","publishedAt":"2017-02-24T19:10:35Z"},{"author":null,"title":"Nintendo
-        Switch Holds Off On Fan Favorite - IGN Daily Fix - IGN Video","description":"Nintendo
-        announces new indie game event and will the Switch have Virtual Console at
-        launch? Plus, Mass Effect: Andromeda get a new gameplay trailer.","url":"http://www.ign.com/videos/2017/02/24/nintendo-switch-holds-off-on-fan-favorite-ign-daily-fix","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/24/thefixswitchnovirtualconsole-1487961771849_1280w.jpg","publishedAt":"2017-02-24T18:43:00Z"},{"author":"Chris
-        Reed","title":"Everything You Need to Know About The Legend of Zelda: Breath
-        of the Wild - IGN","description":"The Legend of Zelda: Breath of the Wild
-        is almost upon us. Get all caught up before it''s out.","url":"http://www.ign.com/articles/2017/02/24/everything-you-need-to-know-about-the-legend-of-zelda-breath-of-the-wild","urlToImage":"http://assets1.ignimgs.com/2016/06/22/zelda1280jpg-6aae24_1280w.jpg","publishedAt":"2017-02-24T18:13:07Z"},{"author":null,"title":"Power
-        Rangers - All Trailers (2017) - IGN Video","description":"From the awesome
-        reveal trailer to the TV spot, this is every frame we''ve seen from Power
-        Rangers.","url":"http://www.ign.com/videos/2017/02/24/power-rangers-all-trailers-2017","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/24/powerrangers-1487960016603_1280w.jpg","publishedAt":"2017-02-24T18:13:00Z"}]}'
+      string: '{"status":"ok","source":"ign","sortBy":"top","articles":[{"author":"Blair
+        Marnell","title":"9 Things We Want to See in John Wick: Chapter 3 - IGN","description":"If
+        Keanu Reeves'' assassin gets another movie, we know what needs to happen in
+        order to continue the series'' excellence.","url":"http://www.ign.com/articles/2017/02/21/9-things-we-want-to-see-in-john-wick-chapter-3","urlToImage":"http://assets2.ignimgs.com/2016/10/08/john-wick-2-posterjpg-fe1944_1280w.jpg","publishedAt":"2017-02-21T15:43:11Z"},{"author":null,"title":"Every
+        Injustice 2 Character Revealed So Far - February 2017 - IGN Video","description":"Black
+        Canary, Swamp Thing, Cheetah, and more. Here''s every Injustice 2 character
+        revealed so far.","url":"http://www.ign.com/videos/2017/02/25/every-injustice-2-character-revealed-so-far-february-2017","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/24/36190303injustice2allreleases1280-1487979110105_1280w.jpg","publishedAt":"2017-02-25T16:00:00Z"},{"author":"Jesse
+        Schedeen","title":"The Best Nightwing Comics to Adapt for the Upcoming Movie
+        - IGN","description":"We explore seven comics that should inspire Dick Grayson''s
+        return to the big screen.","url":"http://www.ign.com/articles/2017/02/25/the-best-nightwing-comics-to-adapt-for-the-upcoming-movie","urlToImage":"http://assets2.ignimgs.com/2016/03/26/b009-nightwing001rbcvrfernandez-brpng-19da98_1280w.png","publishedAt":"2017-02-25T14:00:23Z"},{"author":null,"title":"Bethesda
+        New Projects & Final Fantasy 7 Remake Images - IGN Daily Fix - IGN Video","description":"Bethesda
+        talks about the projects they''re working on, new screenshots revealed for
+        Final Fantasy 7 Remake, and more stories you might have missed.","url":"http://www.ign.com/videos/2017/02/25/bethesda-new-projects-final-fantasy-7-remake-images-ign-daily-fix","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/24/top5bethesdaff71280-1487983181597_1280w.jpg","publishedAt":"2017-02-25T04:00:00Z"},{"author":null,"title":"Horizon
+        Zero Dawn Graphics Comparison: PS4 vs. PS4 Pro - IGN Video","description":"A
+        detailed look at the visual fidelity of Horizon Zero Dawn on PlayStation 4
+        and PlayStation 4 Pro. Note: Horizon Zero Dawn features dynamic lighting and
+        weather, making exact comparisons nearly impossible. PlayStation 4 Pro enhancements
+        Patch 1.02: Favor Performance - \"Renders the game with a smoother framerate
+        and with enhanced graphical features\" Favor Resolution - \"Renders the game
+        at 2160p Checkerboard resolution. Supersamples to your display resolution
+        if your display does not support 4K.\"","url":"http://www.ign.com/videos/2017/02/25/horizon-zero-dawn-graphics-comparison-ps4-vs-ps4-pro","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/24/horizon-gfx-1487988104142_1280w.jpg","publishedAt":"2017-02-25T02:14:00Z"},{"author":null,"title":"PC
+        System Requirements - Mass Effect Andromeda Wiki Guide - IGN","description":"PC
+        System Requirements - Mass Effect Andromeda: In order to play Mass Effect:
+        Andromeda on PC you''ll need the following minimum system requrements. Below
+        are also recommended system requirements se...","url":"http://www.ign.com/wikis/mass-effect-andromeda/PC_System_Requirements","urlToImage":"http://oystatic.ignimgs.com/src/core/img/widgets/global/page/ign-logo-100x100.jpg","publishedAt":null},{"author":"Alex
+        Osborn","title":"X-Men Writer/Producer Talks Lessons Learned From Apocalypse,
+        Possibility of Him Directing Supernova - IGN","description":"In the event
+        Simon Kinberg were to helm the next X-Men movie, he said his directorial style
+        would likely be \"very collaborative.\"","url":"http://www.ign.com/articles/2017/02/25/x-men-writerproducer-talks-lessons-learned-from-apocalypse-possibility-of-him-directing-supernova","urlToImage":"http://assets1.ignimgs.com/2016/05/27/x-men-apocalypse-1280jpg-653526_1280w.jpg","publishedAt":"2017-02-25T00:59:01Z"},{"author":"Jonathon
+        Dornbush","title":"DICE 2017: Hugo Martin, Marty Stratton on Potential for
+        More Doom - IGN","description":"id Software''s Hugo Martin and Marty Stratton
+        discuss Doom''s development and when the game''s design clicked for their
+        team.","url":"http://www.ign.com/articles/2017/02/25/dice-2017-hugo-martin-marty-stratton-on-potential-for-doom-sequel","urlToImage":"http://assets2.ignimgs.com/2015/10/21/doomjpg-b6a9a4_1280w.jpg","publishedAt":"2017-02-25T00:56:27Z"},{"author":"Seth
+        G. Macy","title":"Mario and Crew Lend Their Costumes to Story of Seasons:
+        Trio of Towns - IGN","description":"Dress up like Peach and gain a bonus to
+        being nice!","url":"http://www.ign.com/articles/2017/02/25/mario-and-crew-lend-their-costumes-to-story-of-seasons-trio-of-towns","urlToImage":"http://assets1.ignimgs.com/2017/02/25/story-of-seasons-trio-of-towns-mario-01-1487982265908_1280w.jpg","publishedAt":"2017-02-25T00:38:55Z"},{"author":null,"title":"Marvel
+        Wants Game of the Year Quality Games - IGN Daily Fix - IGN Video","description":"Marvel
+        Games is looking to change up the Marvel Universe, news on quests in Mass
+        Effect: Andromeda and today''s biggest stories.","url":"http://www.ign.com/videos/2017/02/25/marvel-wants-game-of-the-year-quality-games-ign-daily-fix","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/24/thefixmarvelgames-1487982372489_1280w.jpg","publishedAt":"2017-02-25T00:30:00Z"}]}'
     http_version: 
-  recorded_at: Fri, 24 Feb 2017 21:08:11 GMT
+  recorded_at: Sat, 25 Feb 2017 16:29:27 GMT
 recorded_with: VCR 3.0.3

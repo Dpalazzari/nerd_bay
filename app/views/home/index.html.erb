@@ -43,3 +43,9 @@
     </div>
   <% end %>
 </section>
+
+<%= @presenter.giphys.each do |gif| %>
+<div class='col-md-4'>
+  <%= image_tag(gif.url, class:'img-responsive') %>
+</div>
+<% end %>

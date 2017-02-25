@@ -21,7 +21,7 @@ http_interactions:
       Server:
       - openresty
       Date:
-      - Fri, 24 Feb 2017 21:08:13 GMT
+      - Sat, 25 Feb 2017 16:29:27 GMT
       Content-Type:
       - application/json; charset=utf-8
       Content-Length:
@@ -38,8 +38,8 @@ http_interactions:
       - GET, POST
     body:
       encoding: UTF-8
-      string: '{"coord":{"lon":-104.98,"lat":39.74},"weather":[{"id":600,"main":"Snow","description":"light
-        snow","icon":"13d"}],"base":"stations","main":{"temp":-4.03,"pressure":1014,"humidity":73,"temp_min":-6,"temp_max":-1},"visibility":16093,"wind":{"speed":2.6,"deg":70},"clouds":{"all":90},"dt":1487968560,"sys":{"type":1,"id":602,"message":0.0385,"country":"US","sunrise":1487943513,"sunset":1487983670},"id":5419384,"name":"Denver","cod":200}'
+      string: '{"coord":{"lon":-104.98,"lat":39.74},"weather":[{"id":800,"main":"Clear","description":"clear
+        sky","icon":"01d"}],"base":"stations","main":{"temp":-4.89,"pressure":1013,"humidity":44,"temp_min":-6,"temp_max":-3},"visibility":16093,"wind":{"speed":1.5,"deg":160},"clouds":{"all":1},"dt":1488038160,"sys":{"type":1,"id":546,"message":0.0084,"country":"US","sunrise":1488029843,"sunset":1488070124},"id":5419384,"name":"Denver","cod":200}'
     http_version: 
-  recorded_at: Fri, 24 Feb 2017 21:08:12 GMT
+  recorded_at: Sat, 25 Feb 2017 16:29:28 GMT
 recorded_with: VCR 3.0.3
