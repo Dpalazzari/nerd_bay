@@ -20,4 +20,8 @@ class HomePageAttributes
     EspnArticles.top_articles
   end
 
+  def reddit
+    RedditThreads.top_threads
+  end
+
 end
