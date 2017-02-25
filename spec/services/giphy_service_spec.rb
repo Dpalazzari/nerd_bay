@@ -10,7 +10,9 @@ describe GiphyService do
         gif = raw_gifs.first
 
         expect(gif).to be_a(Hash)
-        expect(gif).to have_key(:url)
+        expect(gif).to have_key(:images)
+        expect(gif[:images]).to have_key(:fixed_height)
+        expect(gif[:images][:fixed_height]).to have_key(:url)
       end
     end
   end

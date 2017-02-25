@@ -3,7 +3,7 @@ class Giphy
   attr_reader :url
 
   def initialize(attributes={})
-    @url = attributes[:url]
+    @url = attributes[:images][:fixed_height][:url]
   end
 
   def self.trending

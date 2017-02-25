@@ -33,7 +33,7 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Sat, 25 Feb 2017 16:29:24 GMT
+      - Sat, 25 Feb 2017 16:41:39 GMT
       Content-Length:
       - '5328'
     body:
@@ -78,5 +78,5 @@ http_interactions:
         Games is looking to change up the Marvel Universe, news on quests in Mass
         Effect: Andromeda and today''s biggest stories.","url":"http://www.ign.com/videos/2017/02/25/marvel-wants-game-of-the-year-quality-games-ign-daily-fix","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/24/thefixmarvelgames-1487982372489_1280w.jpg","publishedAt":"2017-02-25T00:30:00Z"}]}'
     http_version: 
-  recorded_at: Sat, 25 Feb 2017 16:29:27 GMT
+  recorded_at: Sat, 25 Feb 2017 16:41:42 GMT
 recorded_with: VCR 3.0.3
