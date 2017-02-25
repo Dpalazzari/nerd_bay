@@ -39,12 +39,13 @@
   <p class='kudos'>Big shout out to <a target="_blank" href="https://newsapi.org/">The News API</a> for all this sweet information!</p>
   <% @presenter.articles.each do |article| %>  
     <div class='col-md-4'>
-      <li><%= link_to article.title, article.url, target: "_blank" %></li>
+      <li><%= link_to article.title, article.url, target: "_blank", class:'art' %></li>
     </div>
   <% end %>
 </section>
 
 <div class='container'>
+  <h1 class='api-headers'>Trending Giphys</h1>
   <% @presenter.giphys.take(10).each do |gif| %>
   <div class='col-md-6'>
     <%= image_tag(gif.url, class:'img-responsive') %>
