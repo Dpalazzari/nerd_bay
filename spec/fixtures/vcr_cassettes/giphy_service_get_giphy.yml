@@ -46,26 +46,26 @@ http_interactions:
       X-Cachiness-Origin-Respect:
       - respect_origin
       Content-Length:
-      - '391'
+      - '372'
       Date:
-      - Sat, 25 Feb 2017 20:35:26 GMT
+      - Sat, 25 Feb 2017 20:53:01 GMT
       Via:
       - 1.1 varnish
       Connection:
       - keep-alive
       X-Served-By:
-      - cache-den6023-DEN
+      - cache-den6025-DEN
       X-Cache:
       - MISS
       X-Cache-Hits:
       - '0'
       X-Timer:
-      - S1488054926.042451,VS0,VE114
+      - S1488055981.219593,VS0,VE73
       Vary:
       - Accept-Encoding
     body:
       encoding: ASCII-8BIT
-      string: "  \n\n{\"data\":{\"type\":\"gif\",\"id\":\"3o7TKKZ5Akgl2vKQMg\",\"url\":\"http:\\/\\/giphy.com\\/gifs\\/golf-stickman-ssg-3o7TKKZ5Akgl2vKQMg\",\"image_original_url\":\"http:\\/\\/media1.giphy.com\\/media\\/3o7TKKZ5Akgl2vKQMg\\/giphy.gif\",\"image_url\":\"http:\\/\\/media1.giphy.com\\/media\\/3o7TKKZ5Akgl2vKQMg\\/giphy.gif\",\"image_mp4_url\":\"http:\\/\\/media4.giphy.com\\/media\\/3o7TKKZ5Akgl2vKQMg\\/giphy.mp4\",\"image_frames\":\"123\",\"image_width\":\"480\",\"image_height\":\"270\",\"fixed_height_downsampled_url\":\"http:\\/\\/media1.giphy.com\\/media\\/3o7TKKZ5Akgl2vKQMg\\/200_d.gif\",\"fixed_height_downsampled_width\":\"356\",\"fixed_height_downsampled_height\":\"200\",\"fixed_width_downsampled_url\":\"http:\\/\\/media1.giphy.com\\/media\\/3o7TKKZ5Akgl2vKQMg\\/200w_d.gif\",\"fixed_width_downsampled_width\":\"200\",\"fixed_width_downsampled_height\":\"112\",\"fixed_height_small_url\":\"http:\\/\\/media1.giphy.com\\/media\\/3o7TKKZ5Akgl2vKQMg\\/100.gif\",\"fixed_height_small_still_url\":\"http:\\/\\/media1.giphy.com\\/media\\/3o7TKKZ5Akgl2vKQMg\\/100_s.gif\",\"fixed_height_small_width\":\"178\",\"fixed_height_small_height\":\"100\",\"fixed_width_small_url\":\"http:\\/\\/media1.giphy.com\\/media\\/3o7TKKZ5Akgl2vKQMg\\/100w.gif\",\"fixed_width_small_still_url\":\"http:\\/\\/media1.giphy.com\\/media\\/3o7TKKZ5Akgl2vKQMg\\/100w_s.gif\",\"fixed_width_small_width\":\"100\",\"fixed_width_small_height\":\"56\",\"username\":\"noodlecake\",\"caption\":\"\"},\"meta\":{\"status\":200,\"msg\":\"OK\",\"response_id\":\"58b1ea8ee66e15d082f97fc2\"}}"
+      string: "  \n\n{\"data\":{\"type\":\"gif\",\"id\":\"qaA3Zmg0saVzO\",\"url\":\"http:\\/\\/giphy.com\\/gifs\\/outer-space-qaA3Zmg0saVzO\",\"image_original_url\":\"http:\\/\\/media4.giphy.com\\/media\\/qaA3Zmg0saVzO\\/giphy.gif\",\"image_url\":\"http:\\/\\/media4.giphy.com\\/media\\/qaA3Zmg0saVzO\\/giphy.gif\",\"image_mp4_url\":\"http:\\/\\/media0.giphy.com\\/media\\/qaA3Zmg0saVzO\\/giphy.mp4\",\"image_frames\":\"16\",\"image_width\":\"463\",\"image_height\":\"360\",\"fixed_height_downsampled_url\":\"http:\\/\\/media4.giphy.com\\/media\\/qaA3Zmg0saVzO\\/200_d.gif\",\"fixed_height_downsampled_width\":\"257\",\"fixed_height_downsampled_height\":\"200\",\"fixed_width_downsampled_url\":\"http:\\/\\/media4.giphy.com\\/media\\/qaA3Zmg0saVzO\\/200w_d.gif\",\"fixed_width_downsampled_width\":\"200\",\"fixed_width_downsampled_height\":\"156\",\"fixed_height_small_url\":\"http:\\/\\/media4.giphy.com\\/media\\/qaA3Zmg0saVzO\\/100.gif\",\"fixed_height_small_still_url\":\"http:\\/\\/media4.giphy.com\\/media\\/qaA3Zmg0saVzO\\/100_s.gif\",\"fixed_height_small_width\":\"129\",\"fixed_height_small_height\":\"100\",\"fixed_width_small_url\":\"http:\\/\\/media4.giphy.com\\/media\\/qaA3Zmg0saVzO\\/100w.gif\",\"fixed_width_small_still_url\":\"http:\\/\\/media4.giphy.com\\/media\\/qaA3Zmg0saVzO\\/100w_s.gif\",\"fixed_width_small_width\":\"100\",\"fixed_width_small_height\":\"78\",\"username\":\"\",\"caption\":\"\"},\"meta\":{\"status\":200,\"msg\":\"OK\",\"response_id\":\"58b1eead0e2119e9a61868b4\"}}"
     http_version: 
-  recorded_at: Sat, 25 Feb 2017 20:35:26 GMT
+  recorded_at: Sat, 25 Feb 2017 20:53:01 GMT
 recorded_with: VCR 3.0.3
