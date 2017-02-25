@@ -1,0 +1,9 @@
+<section class='articles'>
+  <h1>Top Reddit threads Right Now</h1>
+  <p class='article-kudos'>Powered by <a target="_blank" href="https://newsapi.org/">The News API</a></p>
+  <% @presenter.reddit.each do |thread| %>  
+    <div class='col-md-4'>
+      <li><%= link_to thread.title, thread.url, target: "_blank", class:'art' %></li>
+    </div>
+  <% end %>
+</section>
