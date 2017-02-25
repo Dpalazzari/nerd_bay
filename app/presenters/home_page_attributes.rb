@@ -12,8 +12,4 @@ class HomePageAttributes
     IgnArticles.newest
   end
 
-  def giphys
-    Giphy.trending
-  end
-
 end

@@ -3,13 +3,12 @@ class Giphy
   attr_reader :url
 
   def initialize(attributes={})
-    @url = attributes[:images][:fixed_height][:url]
+    @url = attributes[:image_url]
   end
 
   def self.trending
-    GiphyService.get_giphy.map do |gif|
-      new(gif)
-    end
+    gif = GiphyService.get_giphy
+    new(gif)
   end
 
 end

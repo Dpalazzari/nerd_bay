@@ -11,7 +11,7 @@ class GiphyService
   end
 
   def self.conn
-    Faraday.new(:url => 'http://api.giphy.com/v1/gifs/trending') do |faraday|
+    Faraday.new(:url => 'http://api.giphy.com/v1/gifs/random') do |faraday|
       faraday.adapter Faraday.default_adapter
     end
   end

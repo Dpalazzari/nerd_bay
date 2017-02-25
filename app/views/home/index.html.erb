@@ -43,12 +43,3 @@
     </div>
   <% end %>
 </section>
-
-<div class='container'>
-  <h1 class='api-headers'>Trending Giphys</h1>
-  <% @presenter.giphys.take(10).each do |gif| %>
-  <div class='col-md-6'>
-    <%= image_tag(gif.url, class:'img-responsive') %>
-  </div>
-  <% end %>
-</div>

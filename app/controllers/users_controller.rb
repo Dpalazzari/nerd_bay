@@ -18,7 +18,7 @@ class UsersController < ApplicationController
 
   def show
     if current_user
-      @weather = Weather.get_data(current_user.city)
+      @presenter = UserPageAttributes.new(current_user)
     else
       render file: "/public/404"
     end
