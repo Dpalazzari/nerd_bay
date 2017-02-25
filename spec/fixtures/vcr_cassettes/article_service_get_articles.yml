@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: get
-    uri: https://newsapi.org/v1/articles?apiKey=8e104a7dd2be4f42a6330ca513c5c64e&sortBy=top&source=ign
+    uri: https://newsapi.org/v1/articles?apiKey=<articles_key>&sortBy=top&source=ign
     body:
       encoding: US-ASCII
       string: ''
@@ -33,50 +33,118 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Sat, 25 Feb 2017 16:54:22 GMT
+      - Sat, 25 Feb 2017 19:12:34 GMT
       Content-Length:
-      - '5328'
+      - '4768'
     body:
-      encoding: UTF-8
-      string: '{"status":"ok","source":"ign","sortBy":"top","articles":[{"author":"Blair
-        Marnell","title":"9 Things We Want to See in John Wick: Chapter 3 - IGN","description":"If
-        Keanu Reeves'' assassin gets another movie, we know what needs to happen in
-        order to continue the series'' excellence.","url":"http://www.ign.com/articles/2017/02/21/9-things-we-want-to-see-in-john-wick-chapter-3","urlToImage":"http://assets2.ignimgs.com/2016/10/08/john-wick-2-posterjpg-fe1944_1280w.jpg","publishedAt":"2017-02-21T15:43:11Z"},{"author":null,"title":"Every
-        Injustice 2 Character Revealed So Far - February 2017 - IGN Video","description":"Black
-        Canary, Swamp Thing, Cheetah, and more. Here''s every Injustice 2 character
-        revealed so far.","url":"http://www.ign.com/videos/2017/02/25/every-injustice-2-character-revealed-so-far-february-2017","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/24/36190303injustice2allreleases1280-1487979110105_1280w.jpg","publishedAt":"2017-02-25T16:00:00Z"},{"author":"Jesse
-        Schedeen","title":"The Best Nightwing Comics to Adapt for the Upcoming Movie
-        - IGN","description":"We explore seven comics that should inspire Dick Grayson''s
-        return to the big screen.","url":"http://www.ign.com/articles/2017/02/25/the-best-nightwing-comics-to-adapt-for-the-upcoming-movie","urlToImage":"http://assets2.ignimgs.com/2016/03/26/b009-nightwing001rbcvrfernandez-brpng-19da98_1280w.png","publishedAt":"2017-02-25T14:00:23Z"},{"author":null,"title":"Bethesda
-        New Projects & Final Fantasy 7 Remake Images - IGN Daily Fix - IGN Video","description":"Bethesda
-        talks about the projects they''re working on, new screenshots revealed for
-        Final Fantasy 7 Remake, and more stories you might have missed.","url":"http://www.ign.com/videos/2017/02/25/bethesda-new-projects-final-fantasy-7-remake-images-ign-daily-fix","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/24/top5bethesdaff71280-1487983181597_1280w.jpg","publishedAt":"2017-02-25T04:00:00Z"},{"author":null,"title":"Horizon
-        Zero Dawn Graphics Comparison: PS4 vs. PS4 Pro - IGN Video","description":"A
-        detailed look at the visual fidelity of Horizon Zero Dawn on PlayStation 4
-        and PlayStation 4 Pro. Note: Horizon Zero Dawn features dynamic lighting and
-        weather, making exact comparisons nearly impossible. PlayStation 4 Pro enhancements
-        Patch 1.02: Favor Performance - \"Renders the game with a smoother framerate
-        and with enhanced graphical features\" Favor Resolution - \"Renders the game
-        at 2160p Checkerboard resolution. Supersamples to your display resolution
-        if your display does not support 4K.\"","url":"http://www.ign.com/videos/2017/02/25/horizon-zero-dawn-graphics-comparison-ps4-vs-ps4-pro","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/24/horizon-gfx-1487988104142_1280w.jpg","publishedAt":"2017-02-25T02:14:00Z"},{"author":null,"title":"PC
-        System Requirements - Mass Effect Andromeda Wiki Guide - IGN","description":"PC
-        System Requirements - Mass Effect Andromeda: In order to play Mass Effect:
-        Andromeda on PC you''ll need the following minimum system requrements. Below
-        are also recommended system requirements se...","url":"http://www.ign.com/wikis/mass-effect-andromeda/PC_System_Requirements","urlToImage":"http://oystatic.ignimgs.com/src/core/img/widgets/global/page/ign-logo-100x100.jpg","publishedAt":null},{"author":"Alex
-        Osborn","title":"X-Men Writer/Producer Talks Lessons Learned From Apocalypse,
-        Possibility of Him Directing Supernova - IGN","description":"In the event
-        Simon Kinberg were to helm the next X-Men movie, he said his directorial style
-        would likely be \"very collaborative.\"","url":"http://www.ign.com/articles/2017/02/25/x-men-writerproducer-talks-lessons-learned-from-apocalypse-possibility-of-him-directing-supernova","urlToImage":"http://assets1.ignimgs.com/2016/05/27/x-men-apocalypse-1280jpg-653526_1280w.jpg","publishedAt":"2017-02-25T00:59:01Z"},{"author":"Jonathon
-        Dornbush","title":"DICE 2017: Hugo Martin, Marty Stratton on Potential for
-        More Doom - IGN","description":"id Software''s Hugo Martin and Marty Stratton
-        discuss Doom''s development and when the game''s design clicked for their
-        team.","url":"http://www.ign.com/articles/2017/02/25/dice-2017-hugo-martin-marty-stratton-on-potential-for-doom-sequel","urlToImage":"http://assets2.ignimgs.com/2015/10/21/doomjpg-b6a9a4_1280w.jpg","publishedAt":"2017-02-25T00:56:27Z"},{"author":"Seth
-        G. Macy","title":"Mario and Crew Lend Their Costumes to Story of Seasons:
-        Trio of Towns - IGN","description":"Dress up like Peach and gain a bonus to
-        being nice!","url":"http://www.ign.com/articles/2017/02/25/mario-and-crew-lend-their-costumes-to-story-of-seasons-trio-of-towns","urlToImage":"http://assets1.ignimgs.com/2017/02/25/story-of-seasons-trio-of-towns-mario-01-1487982265908_1280w.jpg","publishedAt":"2017-02-25T00:38:55Z"},{"author":null,"title":"Marvel
-        Wants Game of the Year Quality Games - IGN Daily Fix - IGN Video","description":"Marvel
-        Games is looking to change up the Marvel Universe, news on quests in Mass
-        Effect: Andromeda and today''s biggest stories.","url":"http://www.ign.com/videos/2017/02/25/marvel-wants-game-of-the-year-quality-games-ign-daily-fix","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/24/thefixmarvelgames-1487982372489_1280w.jpg","publishedAt":"2017-02-25T00:30:00Z"}]}'
+      encoding: ASCII-8BIT
+      string: !binary |-
+        eyJzdGF0dXMiOiJvayIsInNvdXJjZSI6ImlnbiIsInNvcnRCeSI6InRvcCIs
+        ImFydGljbGVzIjpbeyJhdXRob3IiOiJSeWFuIE1jQ2FmZnJleSIsInRpdGxl
+        IjoiSW5qdXN0aWNlIDI6IEFsbCBPdXIgTmV3ZXN0IEluZm8g4oCTIElHTiBG
+        aXJzdCAtIElHTiIsImRlc2NyaXB0aW9uIjoiV2UncmUgY292ZXJpbmcgSW5q
+        dXN0aWNlIDIgYWxsIG1vbnRoIGxvbmcgYXMgcGFydCBvZiBJR04gRmlyc3Qu
+        IFRoaXMgaXMgeW91ciBodWIgcGFnZSBmb3IgZXZlcnl0aGluZyB3ZSdyZSBk
+        b2luZyEiLCJ1cmwiOiJodHRwOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvMjAx
+        Ny8wMi8wMi9pbmp1c3RpY2UtMi1hbGwtb3VyLW5ld2VzdC1pbmZvLWEtaWdu
+        LWZpcnN0IiwidXJsVG9JbWFnZSI6Imh0dHA6Ly9hc3NldHMxLmlnbmltZ3Mu
+        Y29tLzIwMTcvMDIvMDcvaWduZmlyc3QtaW5qdXN0aWNlMi0xMjgwLTE0ODY0
+        MjkwODgzNDVfMTI4MHcuanBnIiwicHVibGlzaGVkQXQiOiIyMDE3LTAyLTAy
+        VDE3OjAwOjUyWiJ9LHsiYXV0aG9yIjpudWxsLCJ0aXRsZSI6IkhvdyBXZSBG
+        ZWVsIEFib3V0IFN3aXRjaCdzIExhY2sgb2YgVmlydHVhbCBDb25zb2xlIGF0
+        IExhdW5jaCAtIE5WQyAtIElHTiBWaWRlbyIsImRlc2NyaXB0aW9uIjoiTmlu
+        dGVuZG8gY29uZmlybWVkIHRoYXQgdGhlIFN3aXRjaCB3aWxsIGxhY2sgVmly
+        dHVhbCBDb25zb2xlLCBhdCBsZWFzdCBhdCBsYXVuY2guIFRoZSBjcmV3IG9m
+        IE5WQyB3ZWlnaHMgaW4gb24gd2hhdCB0aGF0IG1lYW5zIGZvciBnYW1lcnMu
+        IiwidXJsIjoiaHR0cDovL3d3dy5pZ24uY29tL3ZpZGVvcy8yMDE3LzAyLzI1
+        L2hvdy13ZS1mZWVsLWFib3V0LXN3aXRjaHMtbGFjay1vZi12aXJ0dWFsLWNv
+        bnNvbGUtYXQtbGF1bmNoLW52YyIsInVybFRvSW1hZ2UiOiJodHRwOi8vYXNz
+        ZXRzMS5pZ25pbWdzLmNvbS90aHVtYnMvMjAxNy8wMi8yNC8zLTY0Mzc1OTI3
+        Mjc0NmJiYTc2YTJkMDQ2MTMyYzM0YWJkLTE0ODc5ODcyMTIvZnJhbWVfMDAw
+        MF8xMjgwdy5qcGciLCJwdWJsaXNoZWRBdCI6IjIwMTctMDItMjVUMTc6NDU6
+        MDBaIn0seyJhdXRob3IiOiJFcmljIFNvbmciLCJ0aXRsZSI6IkRhaWx5IERl
+        YWxzOiBQb2tlbW9uIEdvIEJyYWNlbGV0IEJhY2sgaW4gU3RvY2sgLSBJR04i
+        LCJkZXNjcmlwdGlvbiI6Ikxhc3QgZGF5IHRvIG9yZGVyIEhvcml6b246IFpl
+        cm8gRGF3biBhbmQgcmVjZWl2ZSBpdCBieSByZWxlYXNlIGRheSwgbGFzdCBk
+        YXkgdG8gZ2V0ICQ1MCBvZmYgdGhlIFBTNCBTbGltIENvbnNvbGUiLCJ1cmwi
+        OiJodHRwOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvMjAxNy8wMi8yNS9kYWls
+        eS1kZWFscy1wb2tlbW9uLWdvIiwidXJsVG9JbWFnZSI6Imh0dHA6Ly9hc3Nl
+        dHMxLmlnbmltZ3MuY29tLzIwMTcvMDIvMjUvZGFpbHlkZWFscy1ob3Jpem9u
+        ZGF3bi0xMjgwLTE0ODgwNDMwMDcwNzJfMTI4MHcuanBnIiwicHVibGlzaGVk
+        QXQiOiIyMDE3LTAyLTI1VDE3OjIzOjEzWiJ9LHsiYXV0aG9yIjpudWxsLCJ0
+        aXRsZSI6IlRoaW5ncyBOb3QgdG8gRG8gaW4gSGFsbyBXYXJzIDIgLSBIYWxv
+        IFdhcnMgMiBXaWtpIEd1aWRlIC0gSUdOIiwiZGVzY3JpcHRpb24iOiJUaGlu
+        Z3MgTm90IHRvIERvIGluIEhhbG8gV2FycyAyIC0gSGFsbyBXYXJzIDI6IFdp
+        dGggZXZlcnkgZ2FtZSwgdGhlcmUgYXJlIGFsd2F5cyBhIGZldyB0aGluZ3Mg
+        dGhhdCBtYXkgc2VlbSBsaWtlIGEgZ3JlYXQgaWRlYSBhdCBmaXJzdCBidXQg
+        ZW5kIHVwIGJlaW5nIGEgd2FzdGUgb2YgdGltZSBhbmQgZWZmb3J0LiBXZSdy
+        ZSBoZXJlIHRvIHdhLi4uIiwidXJsIjoiaHR0cDovL3d3dy5pZ24uY29tL3dp
+        a2lzL2hhbG8td2Fycy0yL1RoaW5nc19Ob3RfdG9fRG9faW5fSGFsb19XYXJz
+        XzIiLCJ1cmxUb0ltYWdlIjoiaHR0cDovL295c3RhdGljLmlnbmltZ3MuY29t
+        L3NyYy9jb3JlL2ltZy93aWRnZXRzL2dsb2JhbC9wYWdlL2lnbi1sb2dvLTEw
+        MHgxMDAuanBnIiwicHVibGlzaGVkQXQiOm51bGx9LHsiYXV0aG9yIjoiSm9u
+        YXRob24gRG9ybmJ1c2giLCJ0aXRsZSI6IkRJQ0UgMjAxNzogRmFsbG91dCA0
+        IERpcmVjdG9yIFRvZGQgSG93YXJkIG9uIEJldGhlc2RhIEdhbWUgU3R1ZGlv
+        cycgQ3JlYXRpdmUgUHJvY2VzcyAtIElHTiIsImRlc2NyaXB0aW9uIjoiVG9k
+        ZCBIb3dhcmQsIHdobyBpcyBiZWluZyBob25vcmVkIGF0IHRoZSBESUNFIEF3
+        YXJkcyAyMDE3LCByZWZsZWN0cyBvbiBoaXMgc3R1ZGlvJ3MgaGlzdG9yeSBh
+        bmQgd2hhdCBsaWVzIGFoZWFkLiIsInVybCI6Imh0dHA6Ly93d3cuaWduLmNv
+        bS9hcnRpY2xlcy8yMDE3LzAyLzIzL2RpY2UtMjAxNy1mYWxsb3V0LTQtZGly
+        ZWN0b3ItdG9kZC1ob3dhcmQtb24tYmV0aGVzZGEtZ2FtZS1zdHVkaW9zLWNy
+        ZWF0aXZlLXByb2Nlc3MiLCJ1cmxUb0ltYWdlIjoiaHR0cDovL2Fzc2V0czEu
+        aWduaW1ncy5jb20vMjAxMy8xMi8xMi9mYWxsb3V0anBnLWU5NzIwZl8xMjgw
+        dy5qcGciLCJwdWJsaXNoZWRBdCI6IjIwMTctMDItMjNUMjA6MDM6NDBaIn0s
+        eyJhdXRob3IiOm51bGwsInRpdGxlIjoiTWFzcyBFZmZlY3Q6IEFuZHJvbWVk
+        YSBPZmZpY2lhbCBHYW1lcGxheSBTZXJpZXM6IENoYXJhY3RlcnMgVHJhaWxl
+        ciAtIElHTiBWaWRlbyIsImRlc2NyaXB0aW9uIjoiTGVhcm4gYWJvdXQgc2tp
+        bGwgcHJvZ3Jlc3Npb24sIHNxdWFkIGNvbW1hbmRzIGFuZCBtb3JlLiIsInVy
+        bCI6Imh0dHA6Ly93d3cuaWduLmNvbS92aWRlb3MvMjAxNy8wMi8yNS9tYXNz
+        LWVmZmVjdC1hbmRyb21lZGEtb2ZmaWNpYWwtZ2FtZXBsYXktc2VyaWVzLWNo
+        YXJhY3RlcnMtdHJhaWxlciIsInVybFRvSW1hZ2UiOiJodHRwOi8vYXNzZXRz
+        MS5pZ25pbWdzLmNvbS90aHVtYnMvdXNlclVwbG9hZGVkLzIwMTcvMi8yMy9t
+        YXNzY2hhcmFjdGVycy0xNDg3ODYxODQwOTEwXzEyODB3LmpwZyIsInB1Ymxp
+        c2hlZEF0IjoiMjAxNy0wMi0yNVQxNzowMDowMFoifSx7ImF1dGhvciI6bnVs
+        bCwidGl0bGUiOiJSdW5uaW5nIHRvIEh5cnVsZSBDYXN0bGUgaW4gVGhlIExl
+        Z2VuZCBvZiBaZWxkYTogQnJlYXRoIG9mIHRoZSBXaWxkIC0gSUdOIFZpZGVv
+        IiwiZGVzY3JpcHRpb24iOiJXZSBydW4gZnJvbSB0aGUgYmVnaW5uaW5nIGFy
+        ZWEgaW4gQnJlYXRoIG9mIHRoZSBXaWxkIGFsbCB0aGUgd2F5IHRvIEh5cnVs
+        ZSBDYXN0bGUhIiwidXJsIjoiaHR0cDovL3d3dy5pZ24uY29tL3ZpZGVvcy8y
+        MDE3LzAyLzI1L3J1bm5pbmctdG8taHlydWxlLWNhc3RsZS1pbi10aGUtbGVn
+        ZW5kLW9mLXplbGRhLWJyZWF0aC1vZi10aGUtd2lsZCIsInVybFRvSW1hZ2Ui
+        OiJodHRwOi8vYXNzZXRzMS5pZ25pbWdzLmNvbS90aHVtYnMvdXNlclVwbG9h
+        ZGVkLzIwMTcvMi8yNC9zY3JlZW4tc2hvdC0yMDE3LTAyLTI0LWF0LTExNDIy
+        Ni1hbS0xNDg3OTkyMDY4OTc4XzEyODB3LnBuZyIsInB1Ymxpc2hlZEF0Ijoi
+        MjAxNy0wMi0yNVQxNzowMDowMFoifSx7ImF1dGhvciI6bnVsbCwidGl0bGUi
+        OiJMZXQncyBIb2xkIDUgb2YgVGhlIFJhcmVzdCBHYW1lIENvbnNvbGVzIEV2
+        ZXIgLSBJR04gVmlkZW8iLCJkZXNjcmlwdGlvbiI6IlwiTGltaXRlZCBFZGl0
+        aW9uXCIgZG9lc24ndCBiZWdpbiB0byBkZXNjcmliZSB0aGVzZSBpbmNyZWRp
+        Ymx5IHZhbHVhYmxlIHBpZWNlcyBvZiBnYW1pbmcgaGlzdG9yeSIsInVybCI6
+        Imh0dHA6Ly93d3cuaWduLmNvbS92aWRlb3MvMjAxNy8wMi8yNS9sZXRzLWhv
+        bGQtNS1vZi10aGUtcmFyZXN0LWdhbWUtY29uc29sZXMtZXZlciIsInVybFRv
+        SW1hZ2UiOiJodHRwOi8vYXNzZXRzMS5pZ25pbWdzLmNvbS90aHVtYnMvdXNl
+        clVwbG9hZGVkLzIwMTcvMi8yNC8zNjE5MDMwM2NvbnNvbGVzLTE0ODc5ODY2
+        MjI2OTVfMTI4MHcuanBnIiwicHVibGlzaGVkQXQiOiIyMDE3LTAyLTI1VDE3
+        OjAwOjAwWiJ9LHsiYXV0aG9yIjoiQmxhaXIgTWFybmVsbCIsInRpdGxlIjoi
+        OSBUaGluZ3MgV2UgV2FudCB0byBTZWUgaW4gSm9obiBXaWNrOiBDaGFwdGVy
+        IDMgLSBJR04iLCJkZXNjcmlwdGlvbiI6IklmIEtlYW51IFJlZXZlcycgYXNz
+        YXNzaW4gZ2V0cyBhbm90aGVyIG1vdmllLCB3ZSBrbm93IHdoYXQgbmVlZHMg
+        dG8gaGFwcGVuIGluIG9yZGVyIHRvIGNvbnRpbnVlIHRoZSBzZXJpZXMnIGV4
+        Y2VsbGVuY2UuIiwidXJsIjoiaHR0cDovL3d3dy5pZ24uY29tL2FydGljbGVz
+        LzIwMTcvMDIvMjEvOS10aGluZ3Mtd2Utd2FudC10by1zZWUtaW4tam9obi13
+        aWNrLWNoYXB0ZXItMyIsInVybFRvSW1hZ2UiOiJodHRwOi8vYXNzZXRzMi5p
+        Z25pbWdzLmNvbS8yMDE2LzEwLzA4L2pvaG4td2ljay0yLXBvc3RlcmpwZy1m
+        ZTE5NDRfMTI4MHcuanBnIiwicHVibGlzaGVkQXQiOiIyMDE3LTAyLTIxVDE1
+        OjQzOjExWiJ9LHsiYXV0aG9yIjpudWxsLCJ0aXRsZSI6IkV2ZXJ5IEluanVz
+        dGljZSAyIENoYXJhY3RlciBSZXZlYWxlZCBTbyBGYXIgLSBGZWJydWFyeSAy
+        MDE3IC0gSUdOIFZpZGVvIiwiZGVzY3JpcHRpb24iOiJCbGFjayBDYW5hcnks
+        IFN3YW1wIFRoaW5nLCBDaGVldGFoLCBhbmQgbW9yZS4gSGVyZSdzIGV2ZXJ5
+        IEluanVzdGljZSAyIGNoYXJhY3RlciByZXZlYWxlZCBzbyBmYXIuIiwidXJs
+        IjoiaHR0cDovL3d3dy5pZ24uY29tL3ZpZGVvcy8yMDE3LzAyLzI1L2V2ZXJ5
+        LWluanVzdGljZS0yLWNoYXJhY3Rlci1yZXZlYWxlZC1zby1mYXItZmVicnVh
+        cnktMjAxNyIsInVybFRvSW1hZ2UiOiJodHRwOi8vYXNzZXRzMS5pZ25pbWdz
+        LmNvbS90aHVtYnMvdXNlclVwbG9hZGVkLzIwMTcvMi8yNC8zNjE5MDMwM2lu
+        anVzdGljZTJhbGxyZWxlYXNlczEyODAtMTQ4Nzk3OTExMDEwNV8xMjgwdy5q
+        cGciLCJwdWJsaXNoZWRBdCI6IjIwMTctMDItMjVUMTY6MDA6MDBaIn1dfQ==
     http_version: 
-  recorded_at: Sat, 25 Feb 2017 16:54:26 GMT
+  recorded_at: Sat, 25 Feb 2017 19:12:35 GMT
 recorded_with: VCR 3.0.3
