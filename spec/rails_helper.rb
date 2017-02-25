@@ -17,6 +17,18 @@ VCR.configure do |config|
   config.filter_sensitive_data('<client_secret>') do |interaction|
     ENV['client_secret']
   end
+   config.filter_sensitive_data('<twitch_client_id>') do |interaction|
+    ENV['twitch_client_id']
+  end
+   config.filter_sensitive_data('<movie_key>') do |interaction|
+    ENV['movie_key']
+  end
+   config.filter_sensitive_data('<articles_key>') do |interaction|
+    ENV['articles_key']
+  end
+   config.filter_sensitive_data('<weather_key>') do |interaction|
+    ENV['weather_key']
+  end
 end
 # Add additional requires below this line. Rails is not loaded until this point!
 

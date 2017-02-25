@@ -1,0 +1,71 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://api.giphy.com/v1/gifs/random?api_key=dc6zaTOxFJmzC
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Faraday v0.11.0
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Accept-Ranges:
+      - bytes
+      - bytes
+      - bytes
+      Access-Control-Allow-Credentials:
+      - 'true'
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept
+      Access-Control-Allow-Methods:
+      - GET, POST, PUT, DELETE, OPTIONS
+      Access-Control-Allow-Origin:
+      - "*"
+      Age:
+      - '0'
+      - '0'
+      Content-Type:
+      - application/json
+      X-Robots-Tag:
+      - noindex
+      X-Rule-Debug:
+      - '1'
+      X-Cachiness-Rule-Name:
+      - fastly_default
+      X-Cachiness-Edge-Timeout:
+      - '1200.000'
+      X-Cachiness-Origin-Respect:
+      - respect_origin
+      Content-Length:
+      - '350'
+      Date:
+      - Sat, 25 Feb 2017 19:19:09 GMT
+      Via:
+      - 1.1 varnish
+      Connection:
+      - keep-alive
+      X-Served-By:
+      - cache-den6020-DEN
+      X-Cache:
+      - MISS
+      X-Cache-Hits:
+      - '0'
+      X-Timer:
+      - S1488050349.577256,VS0,VE79
+      Vary:
+      - Accept-Encoding
+    body:
+      encoding: ASCII-8BIT
+      string: "  \n\n{\"data\":{\"type\":\"gif\",\"id\":\"cfMLfLHuc22bu\",\"url\":\"http:\\/\\/giphy.com\\/gifs\\/flamingo-cfMLfLHuc22bu\",\"image_original_url\":\"http:\\/\\/media0.giphy.com\\/media\\/cfMLfLHuc22bu\\/giphy.gif\",\"image_url\":\"http:\\/\\/media0.giphy.com\\/media\\/cfMLfLHuc22bu\\/giphy.gif\",\"image_mp4_url\":\"http:\\/\\/media1.giphy.com\\/media\\/cfMLfLHuc22bu\\/giphy.mp4\",\"image_frames\":\"8\",\"image_width\":\"200\",\"image_height\":\"200\",\"fixed_height_downsampled_url\":\"http:\\/\\/media0.giphy.com\\/media\\/cfMLfLHuc22bu\\/200_d.gif\",\"fixed_height_downsampled_width\":\"200\",\"fixed_height_downsampled_height\":\"200\",\"fixed_width_downsampled_url\":\"http:\\/\\/media0.giphy.com\\/media\\/cfMLfLHuc22bu\\/200w_d.gif\",\"fixed_width_downsampled_width\":\"200\",\"fixed_width_downsampled_height\":\"200\",\"fixed_height_small_url\":\"http:\\/\\/media0.giphy.com\\/media\\/cfMLfLHuc22bu\\/100.gif\",\"fixed_height_small_still_url\":\"http:\\/\\/media0.giphy.com\\/media\\/cfMLfLHuc22bu\\/100_s.gif\",\"fixed_height_small_width\":\"100\",\"fixed_height_small_height\":\"100\",\"fixed_width_small_url\":\"http:\\/\\/media0.giphy.com\\/media\\/cfMLfLHuc22bu\\/100w.gif\",\"fixed_width_small_still_url\":\"http:\\/\\/media0.giphy.com\\/media\\/cfMLfLHuc22bu\\/100w_s.gif\",\"fixed_width_small_width\":\"100\",\"fixed_width_small_height\":\"100\",\"username\":\"\",\"caption\":\"\"},\"meta\":{\"status\":200,\"msg\":\"OK\",\"response_id\":\"58b1d8ad6005f208258bab85\"}}"
+    http_version: 
+  recorded_at: Sat, 25 Feb 2017 19:19:09 GMT
+recorded_with: VCR 3.0.3

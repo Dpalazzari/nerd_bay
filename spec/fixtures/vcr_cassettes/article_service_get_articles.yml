@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: get
-    uri: https://newsapi.org/v1/articles?apiKey=8e104a7dd2be4f42a6330ca513c5c64e&sortBy=top&source=ign
+    uri: https://newsapi.org/v1/articles?apiKey=<articles_key>&sortBy=top&source=ign
     body:
       encoding: US-ASCII
       string: ''
@@ -33,41 +33,117 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Fri, 24 Feb 2017 21:08:02 GMT
+      - Sat, 25 Feb 2017 19:19:07 GMT
       Content-Length:
-      - '4707'
+      - '4712'
     body:
-      encoding: UTF-8
-      string: '{"status":"ok","source":"ign","sortBy":"top","articles":[{"author":"Alex
-        Osborn","title":"Black Lightning: Cress Williams Cast as the DC Superhero
-        in Berlanti/CW Series - IGN","description":"Hart of Dixie star Cress Williams
-        has been cast in the title role for Greg Berlanti''s upcoming DC drama.","url":"http://www.ign.com/articles/2017/02/24/black-lightning-cress-williams-cast-as-the-dc-superhero-in-berlanticw-series?abthid=58b09a40c6288d1776000019","urlToImage":"http://assets2.ignimgs.com/2016/09/01/blacklightningjpg-42cbd3_1280w.jpg","publishedAt":"2017-02-24T20:40:32Z"},{"author":null,"title":"Nintendo
-        Switch Compared to Everything (Sort of) - IGN Video","description":"This is
-        what the Nintendo Switch looks next to a bunch of other gaming consoles and
-        controllers.","url":"http://www.ign.com/videos/2017/02/24/nintendo-switch-compared-to-everything-sort-of","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/23/switch1-1487897290742_1280w.jpg","publishedAt":"2017-02-24T20:30:00Z"},{"author":null,"title":"Iron
-        Fist Stars on Bringing the Martial Arts Master to Netflix - IGN Video","description":"Finn
-        Jones and Jessica Henwick discuss the relationship between Danny Rand and
-        Colleen Wing, creating martial arts magic for Netflix, and more.","url":"http://www.ign.com/videos/2017/02/24/iron-fist-stars-on-bringing-the-martial-arts-master-to-netflix","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/23/if-1487885134425_1280w.jpg","publishedAt":"2017-02-24T20:02:00Z"},{"author":"Adam
-        Sligar","title":"Apply to IGN''s 2017 Code-Foo Internship Program! - IGN","description":"Are
-        you studying to be a software engineer? You can sign up for a paid, six-week
-        internship at IGN in San Francisco.","url":"http://www.ign.com/articles/2017/02/17/apply-to-igns-2017-code-foo-internship-program?abthid=58ab50cc2df79e8459000018","urlToImage":"http://assets1.ignimgs.com/2017/02/17/code-foo-blogroll-1487359419479_1280w.jpg","publishedAt":"2017-02-18T01:00:07Z"},{"author":"Mike
-        Rougeau","title":"Get Out Review - IGN","description":"Director Jordan Peele''s
-        Get Out is a Key and Peele sketch with the slider tuned to horror.","url":"http://www.ign.com/articles/2017/02/23/get-out-review-2","urlToImage":"http://assets1.ignimgs.com/2017/02/15/get-out-1920-1487184856638_1280w.jpg","publishedAt":"2017-02-23T00:00:18Z"},{"author":"Alex
-        Osborn","title":"Overwatch Shares Another Teaser for New Character - IGN","description":"A
-        new teaser adds weight to the speculation that Efi Oladele (or one of her
-        robotic creations) may soon join Blizzard''s hero shooter.","url":"http://www.ign.com/articles/2017/02/24/overwatch-shares-another-teaser-for-new-character","urlToImage":"http://assets2.ignimgs.com/2016/10/06/overwatch1280jpg-19afa21280wjpg-f9a931_1280w.jpg","publishedAt":"2017-02-24T19:42:50Z"},{"author":"Daemon
-        Hatfield","title":"Game Scoop! 425: The Most Iconic Video Games Set in Each
-        U.S. State - IGN","description":"This week on IGN''s video game talk show:
-        The state of games, Xbox Scorpio, Horizon Zero dawn, and more.","url":"http://www.ign.com/articles/2017/02/24/game-scoop-425-the-most-iconic-video-games-set-in-each-us-state","urlToImage":"http://assets1.ignimgs.com/2017/02/24/gamesbystate-1280-1487963347100_1280w.jpg","publishedAt":"2017-02-24T19:10:35Z"},{"author":null,"title":"Nintendo
-        Switch Holds Off On Fan Favorite - IGN Daily Fix - IGN Video","description":"Nintendo
-        announces new indie game event and will the Switch have Virtual Console at
-        launch? Plus, Mass Effect: Andromeda get a new gameplay trailer.","url":"http://www.ign.com/videos/2017/02/24/nintendo-switch-holds-off-on-fan-favorite-ign-daily-fix","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/24/thefixswitchnovirtualconsole-1487961771849_1280w.jpg","publishedAt":"2017-02-24T18:43:00Z"},{"author":"Chris
-        Reed","title":"Everything You Need to Know About The Legend of Zelda: Breath
-        of the Wild - IGN","description":"The Legend of Zelda: Breath of the Wild
-        is almost upon us. Get all caught up before it''s out.","url":"http://www.ign.com/articles/2017/02/24/everything-you-need-to-know-about-the-legend-of-zelda-breath-of-the-wild","urlToImage":"http://assets1.ignimgs.com/2016/06/22/zelda1280jpg-6aae24_1280w.jpg","publishedAt":"2017-02-24T18:13:07Z"},{"author":null,"title":"Power
-        Rangers - All Trailers (2017) - IGN Video","description":"From the awesome
-        reveal trailer to the TV spot, this is every frame we''ve seen from Power
-        Rangers.","url":"http://www.ign.com/videos/2017/02/24/power-rangers-all-trailers-2017","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/24/powerrangers-1487960016603_1280w.jpg","publishedAt":"2017-02-24T18:13:00Z"}]}'
+      encoding: ASCII-8BIT
+      string: !binary |-
+        eyJzdGF0dXMiOiJvayIsInNvdXJjZSI6ImlnbiIsInNvcnRCeSI6InRvcCIs
+        ImFydGljbGVzIjpbeyJhdXRob3IiOm51bGwsInRpdGxlIjoiU3VkYTUxIEhh
+        cyBhbiBJbnNhbmUgSWRlYSBGb3IgYSBNYXJpbyBHYW1lIC0gSUdOIFZpZGVv
+        IiwiZGVzY3JpcHRpb24iOiJObyBNb3JlIEhlcm9lcyBhbmQgS2lsbGVyIDcg
+        Y3JlYXRvciB0ZWxscyB1cyBob3cgaGUnZCBtYWtlIGEgZ2FtZSBhYm91dCBv
+        dXIgZmF2b3JpdGUgcGx1bWJlci4iLCJ1cmwiOiJodHRwOi8vd3d3Lmlnbi5j
+        b20vdmlkZW9zLzIwMTcvMDIvMTcvc3VkYTUxLWhhcy1hbi1pbnNhbmUtaWRl
+        YS1mb3ItYS1tYXJpby1nYW1lIiwidXJsVG9JbWFnZSI6Imh0dHA6Ly9hc3Nl
+        dHMxLmlnbmltZ3MuY29tL3RodW1icy91c2VyVXBsb2FkZWQvMjAxNy8yLzE3
+        LzM2MTkwMzAzbWFyaW8tMTQ4NzM2Mzc3MDA5OF8xMjgwdy5qcGciLCJwdWJs
+        aXNoZWRBdCI6IjIwMTctMDItMTdUMjA6MjM6MDBaIn0seyJhdXRob3IiOiJS
+        eWFuIE1jQ2FmZnJleSIsInRpdGxlIjoiSW5qdXN0aWNlIDI6IEFsbCBPdXIg
+        TmV3ZXN0IEluZm8g4oCTIElHTiBGaXJzdCAtIElHTiIsImRlc2NyaXB0aW9u
+        IjoiV2UncmUgY292ZXJpbmcgSW5qdXN0aWNlIDIgYWxsIG1vbnRoIGxvbmcg
+        YXMgcGFydCBvZiBJR04gRmlyc3QuIFRoaXMgaXMgeW91ciBodWIgcGFnZSBm
+        b3IgZXZlcnl0aGluZyB3ZSdyZSBkb2luZyEiLCJ1cmwiOiJodHRwOi8vd3d3
+        Lmlnbi5jb20vYXJ0aWNsZXMvMjAxNy8wMi8wMi9pbmp1c3RpY2UtMi1hbGwt
+        b3VyLW5ld2VzdC1pbmZvLWEtaWduLWZpcnN0IiwidXJsVG9JbWFnZSI6Imh0
+        dHA6Ly9hc3NldHMxLmlnbmltZ3MuY29tLzIwMTcvMDIvMDcvaWduZmlyc3Qt
+        aW5qdXN0aWNlMi0xMjgwLTE0ODY0MjkwODgzNDVfMTI4MHcuanBnIiwicHVi
+        bGlzaGVkQXQiOiIyMDE3LTAyLTAyVDE3OjAwOjUyWiJ9LHsiYXV0aG9yIjpu
+        dWxsLCJ0aXRsZSI6IkhvdyBXZSBGZWVsIEFib3V0IFN3aXRjaCdzIExhY2sg
+        b2YgVmlydHVhbCBDb25zb2xlIGF0IExhdW5jaCAtIE5WQyAtIElHTiBWaWRl
+        byIsImRlc2NyaXB0aW9uIjoiTmludGVuZG8gY29uZmlybWVkIHRoYXQgdGhl
+        IFN3aXRjaCB3aWxsIGxhY2sgVmlydHVhbCBDb25zb2xlLCBhdCBsZWFzdCBh
+        dCBsYXVuY2guIFRoZSBjcmV3IG9mIE5WQyB3ZWlnaHMgaW4gb24gd2hhdCB0
+        aGF0IG1lYW5zIGZvciBnYW1lcnMuIiwidXJsIjoiaHR0cDovL3d3dy5pZ24u
+        Y29tL3ZpZGVvcy8yMDE3LzAyLzI1L2hvdy13ZS1mZWVsLWFib3V0LXN3aXRj
+        aHMtbGFjay1vZi12aXJ0dWFsLWNvbnNvbGUtYXQtbGF1bmNoLW52YyIsInVy
+        bFRvSW1hZ2UiOiJodHRwOi8vYXNzZXRzMS5pZ25pbWdzLmNvbS90aHVtYnMv
+        MjAxNy8wMi8yNC8zLTY0Mzc1OTI3Mjc0NmJiYTc2YTJkMDQ2MTMyYzM0YWJk
+        LTE0ODc5ODcyMTIvZnJhbWVfMDAwMF8xMjgwdy5qcGciLCJwdWJsaXNoZWRB
+        dCI6IjIwMTctMDItMjVUMTc6NDU6MDBaIn0seyJhdXRob3IiOiJFcmljIFNv
+        bmciLCJ0aXRsZSI6IkRhaWx5IERlYWxzOiBQb2tlbW9uIEdvIEJyYWNlbGV0
+        IEJhY2sgaW4gU3RvY2sgLSBJR04iLCJkZXNjcmlwdGlvbiI6Ikxhc3QgZGF5
+        IHRvIG9yZGVyIEhvcml6b246IFplcm8gRGF3biBhbmQgcmVjZWl2ZSBpdCBi
+        eSByZWxlYXNlIGRheSwgbGFzdCBkYXkgdG8gZ2V0ICQ1MCBvZmYgdGhlIFBT
+        NCBTbGltIENvbnNvbGUiLCJ1cmwiOiJodHRwOi8vd3d3Lmlnbi5jb20vYXJ0
+        aWNsZXMvMjAxNy8wMi8yNS9kYWlseS1kZWFscy1wb2tlbW9uLWdvIiwidXJs
+        VG9JbWFnZSI6Imh0dHA6Ly9hc3NldHMxLmlnbmltZ3MuY29tLzIwMTcvMDIv
+        MjUvZGFpbHlkZWFscy1ob3Jpem9uZGF3bi0xMjgwLTE0ODgwNDMwMDcwNzJf
+        MTI4MHcuanBnIiwicHVibGlzaGVkQXQiOiIyMDE3LTAyLTI1VDE3OjIzOjEz
+        WiJ9LHsiYXV0aG9yIjpudWxsLCJ0aXRsZSI6IlRoaW5ncyBOb3QgdG8gRG8g
+        aW4gSGFsbyBXYXJzIDIgLSBIYWxvIFdhcnMgMiBXaWtpIEd1aWRlIC0gSUdO
+        IiwiZGVzY3JpcHRpb24iOiJUaGluZ3MgTm90IHRvIERvIGluIEhhbG8gV2Fy
+        cyAyIC0gSGFsbyBXYXJzIDI6IFdpdGggZXZlcnkgZ2FtZSwgdGhlcmUgYXJl
+        IGFsd2F5cyBhIGZldyB0aGluZ3MgdGhhdCBtYXkgc2VlbSBsaWtlIGEgZ3Jl
+        YXQgaWRlYSBhdCBmaXJzdCBidXQgZW5kIHVwIGJlaW5nIGEgd2FzdGUgb2Yg
+        dGltZSBhbmQgZWZmb3J0LiBXZSdyZSBoZXJlIHRvIHdhLi4uIiwidXJsIjoi
+        aHR0cDovL3d3dy5pZ24uY29tL3dpa2lzL2hhbG8td2Fycy0yL1RoaW5nc19O
+        b3RfdG9fRG9faW5fSGFsb19XYXJzXzIiLCJ1cmxUb0ltYWdlIjoiaHR0cDov
+        L295c3RhdGljLmlnbmltZ3MuY29tL3NyYy9jb3JlL2ltZy93aWRnZXRzL2ds
+        b2JhbC9wYWdlL2lnbi1sb2dvLTEwMHgxMDAuanBnIiwicHVibGlzaGVkQXQi
+        Om51bGx9LHsiYXV0aG9yIjoiSm9uYXRob24gRG9ybmJ1c2giLCJ0aXRsZSI6
+        IkRJQ0UgMjAxNzogRmFsbG91dCA0IERpcmVjdG9yIFRvZGQgSG93YXJkIG9u
+        IEJldGhlc2RhIEdhbWUgU3R1ZGlvcycgQ3JlYXRpdmUgUHJvY2VzcyAtIElH
+        TiIsImRlc2NyaXB0aW9uIjoiVG9kZCBIb3dhcmQsIHdobyBpcyBiZWluZyBo
+        b25vcmVkIGF0IHRoZSBESUNFIEF3YXJkcyAyMDE3LCByZWZsZWN0cyBvbiBo
+        aXMgc3R1ZGlvJ3MgaGlzdG9yeSBhbmQgd2hhdCBsaWVzIGFoZWFkLiIsInVy
+        bCI6Imh0dHA6Ly93d3cuaWduLmNvbS9hcnRpY2xlcy8yMDE3LzAyLzIzL2Rp
+        Y2UtMjAxNy1mYWxsb3V0LTQtZGlyZWN0b3ItdG9kZC1ob3dhcmQtb24tYmV0
+        aGVzZGEtZ2FtZS1zdHVkaW9zLWNyZWF0aXZlLXByb2Nlc3MiLCJ1cmxUb0lt
+        YWdlIjoiaHR0cDovL2Fzc2V0czEuaWduaW1ncy5jb20vMjAxMy8xMi8xMi9m
+        YWxsb3V0anBnLWU5NzIwZl8xMjgwdy5qcGciLCJwdWJsaXNoZWRBdCI6IjIw
+        MTctMDItMjNUMjA6MDM6NDBaIn0seyJhdXRob3IiOm51bGwsInRpdGxlIjoi
+        TWFzcyBFZmZlY3Q6IEFuZHJvbWVkYSBPZmZpY2lhbCBHYW1lcGxheSBTZXJp
+        ZXM6IENoYXJhY3RlcnMgVHJhaWxlciAtIElHTiBWaWRlbyIsImRlc2NyaXB0
+        aW9uIjoiTGVhcm4gYWJvdXQgc2tpbGwgcHJvZ3Jlc3Npb24sIHNxdWFkIGNv
+        bW1hbmRzIGFuZCBtb3JlLiIsInVybCI6Imh0dHA6Ly93d3cuaWduLmNvbS92
+        aWRlb3MvMjAxNy8wMi8yNS9tYXNzLWVmZmVjdC1hbmRyb21lZGEtb2ZmaWNp
+        YWwtZ2FtZXBsYXktc2VyaWVzLWNoYXJhY3RlcnMtdHJhaWxlciIsInVybFRv
+        SW1hZ2UiOiJodHRwOi8vYXNzZXRzMS5pZ25pbWdzLmNvbS90aHVtYnMvdXNl
+        clVwbG9hZGVkLzIwMTcvMi8yMy9tYXNzY2hhcmFjdGVycy0xNDg3ODYxODQw
+        OTEwXzEyODB3LmpwZyIsInB1Ymxpc2hlZEF0IjoiMjAxNy0wMi0yNVQxNzow
+        MDowMFoifSx7ImF1dGhvciI6bnVsbCwidGl0bGUiOiJSdW5uaW5nIHRvIEh5
+        cnVsZSBDYXN0bGUgaW4gVGhlIExlZ2VuZCBvZiBaZWxkYTogQnJlYXRoIG9m
+        IHRoZSBXaWxkIC0gSUdOIFZpZGVvIiwiZGVzY3JpcHRpb24iOiJXZSBydW4g
+        ZnJvbSB0aGUgYmVnaW5uaW5nIGFyZWEgaW4gQnJlYXRoIG9mIHRoZSBXaWxk
+        IGFsbCB0aGUgd2F5IHRvIEh5cnVsZSBDYXN0bGUhIiwidXJsIjoiaHR0cDov
+        L3d3dy5pZ24uY29tL3ZpZGVvcy8yMDE3LzAyLzI1L3J1bm5pbmctdG8taHly
+        dWxlLWNhc3RsZS1pbi10aGUtbGVnZW5kLW9mLXplbGRhLWJyZWF0aC1vZi10
+        aGUtd2lsZCIsInVybFRvSW1hZ2UiOiJodHRwOi8vYXNzZXRzMS5pZ25pbWdz
+        LmNvbS90aHVtYnMvdXNlclVwbG9hZGVkLzIwMTcvMi8yNC9zY3JlZW4tc2hv
+        dC0yMDE3LTAyLTI0LWF0LTExNDIyNi1hbS0xNDg3OTkyMDY4OTc4XzEyODB3
+        LnBuZyIsInB1Ymxpc2hlZEF0IjoiMjAxNy0wMi0yNVQxNzowMDowMFoifSx7
+        ImF1dGhvciI6bnVsbCwidGl0bGUiOiJMZXQncyBIb2xkIDUgb2YgVGhlIFJh
+        cmVzdCBHYW1lIENvbnNvbGVzIEV2ZXIgLSBJR04gVmlkZW8iLCJkZXNjcmlw
+        dGlvbiI6IlwiTGltaXRlZCBFZGl0aW9uXCIgZG9lc24ndCBiZWdpbiB0byBk
+        ZXNjcmliZSB0aGVzZSBpbmNyZWRpYmx5IHZhbHVhYmxlIHBpZWNlcyBvZiBn
+        YW1pbmcgaGlzdG9yeSIsInVybCI6Imh0dHA6Ly93d3cuaWduLmNvbS92aWRl
+        b3MvMjAxNy8wMi8yNS9sZXRzLWhvbGQtNS1vZi10aGUtcmFyZXN0LWdhbWUt
+        Y29uc29sZXMtZXZlciIsInVybFRvSW1hZ2UiOiJodHRwOi8vYXNzZXRzMS5p
+        Z25pbWdzLmNvbS90aHVtYnMvdXNlclVwbG9hZGVkLzIwMTcvMi8yNC8zNjE5
+        MDMwM2NvbnNvbGVzLTE0ODc5ODY2MjI2OTVfMTI4MHcuanBnIiwicHVibGlz
+        aGVkQXQiOiIyMDE3LTAyLTI1VDE3OjAwOjAwWiJ9LHsiYXV0aG9yIjoiQmxh
+        aXIgTWFybmVsbCIsInRpdGxlIjoiOSBUaGluZ3MgV2UgV2FudCB0byBTZWUg
+        aW4gSm9obiBXaWNrOiBDaGFwdGVyIDMgLSBJR04iLCJkZXNjcmlwdGlvbiI6
+        IklmIEtlYW51IFJlZXZlcycgYXNzYXNzaW4gZ2V0cyBhbm90aGVyIG1vdmll
+        LCB3ZSBrbm93IHdoYXQgbmVlZHMgdG8gaGFwcGVuIGluIG9yZGVyIHRvIGNv
+        bnRpbnVlIHRoZSBzZXJpZXMnIGV4Y2VsbGVuY2UuIiwidXJsIjoiaHR0cDov
+        L3d3dy5pZ24uY29tL2FydGljbGVzLzIwMTcvMDIvMjEvOS10aGluZ3Mtd2Ut
+        d2FudC10by1zZWUtaW4tam9obi13aWNrLWNoYXB0ZXItMyIsInVybFRvSW1h
+        Z2UiOiJodHRwOi8vYXNzZXRzMi5pZ25pbWdzLmNvbS8yMDE2LzEwLzA4L2pv
+        aG4td2ljay0yLXBvc3RlcmpwZy1mZTE5NDRfMTI4MHcuanBnIiwicHVibGlz
+        aGVkQXQiOiIyMDE3LTAyLTIxVDE1OjQzOjExWiJ9XX0=
     http_version: 
-  recorded_at: Fri, 24 Feb 2017 21:08:11 GMT
+  recorded_at: Sat, 25 Feb 2017 19:19:09 GMT
 recorded_with: VCR 3.0.3

@@ -39,7 +39,7 @@
   <p class='kudos'>Big shout out to <a target="_blank" href="https://newsapi.org/">The News API</a> for all this sweet information!</p>
   <% @presenter.articles.each do |article| %>  
     <div class='col-md-4'>
-      <li><%= link_to article.title, article.url, target: "_blank" %></li>
+      <li><%= link_to article.title, article.url, target: "_blank", class:'art' %></li>
     </div>
   <% end %>
 </section>
