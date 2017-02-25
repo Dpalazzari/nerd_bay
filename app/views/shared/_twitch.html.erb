@@ -1,0 +1,17 @@
+<div class='container'>
+  <h1 class='api-headers'>Top 10 Twitch Streamers Online Now</h1>
+  <% @presenter.streams.take(10).each do |stream|%>
+  <div class='col-md-6'>
+    <div class='col-md-8'>
+      <%= image_tag(stream.logo, class:'img-responsive') %>
+    </div>
+
+    <div class='col-md-4'>
+      <h3><%= stream.game %></h3>
+      <%= link_to stream.streamer, stream.url, target: "_blank", class:'btn btn-info btn-sm' %>
+      <li>Total Views: <%= stream.views %></li>
+      <li>Followers: <%= stream.followers %></li>
+    </div>
+  </div>
+  <% end %>
+</div>

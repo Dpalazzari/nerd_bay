@@ -1,0 +1,9 @@
+<section class='articles'>
+  <h1>Top Hacker articles</h1>
+  <p class='article-kudos'>Powered by <a target="_blank" href="https://newsapi.org/">The News API</a></p>
+  <% @presenter.hacker_articles.each do |article| %>  
+    <div class='col-md-4'>
+      <li><%= link_to article.title, article.url, target: "_blank", class:'art' %></li>
+    </div>
+  <% end %>
+</section>

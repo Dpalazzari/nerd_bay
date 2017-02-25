@@ -1,7 +1,36 @@
 .articles {
   margin-bottom: 10%;
+  background-color: #3B789F;
+  h1{
+    margin-left: 3%;
+  }
+  li{
+    padding-bottom: 1%;
+  }
+  a:hover{
+    color: #01d277;
+    text-decoration: none;
+  }
+   a:visited{
+   color: #01d277;
+    text-decoration: none;
+  }
+  a:active{
+    color: #01d277;
+    text-decoration: none;
+  }
 }
 .art{
   color: white;
-  font-weight: bold;
+}
+.ign {
+  display: block;
+}
+.article-kudos{
+  background-color: black;
+  color: white;
+  width: 15%;
+  a{
+    color: #01d277;
+  }
 }

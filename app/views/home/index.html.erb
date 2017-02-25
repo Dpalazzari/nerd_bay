@@ -1,45 +1,16 @@
-<div class='container'>
-  <h1 class='api-headers'>Top 10 Twitch Streamers Online Now</h1>
-  <% @presenter.streams.take(10).each do |stream|%>
-  <div class='col-md-6'>
-    <div class='col-md-8'>
-      <%= image_tag(stream.logo, class:'img-responsive') %>
-    </div>
+<%= render partial: "shared/twitch" %>
 
-    <div class='col-md-4'>
-      <h3><%= stream.game %></h3>
-      <%= link_to stream.streamer, stream.url, target: "_blank", class:'btn btn-info btn-sm' %>
-      <li>Total Views: <%= stream.views %></li>
-      <li>Followers: <%= stream.followers %></li>
-    </div>
-  </div>
-  <% end %>
-</div>
 
-<div class='container'>
-  <h1 class='api-headers'>Top 10 Movies Out Right Now</h1>
-  <p class='kudos'>Big shout out to <a target="_blank" href="https://www.themoviedb.org/">The Movie DB</a> for all this sweet information!</p>
-   <% @presenter.movies.take(10).each do |movie|%>
-  <div class='col-md-6'>
-    <div class='col-md-4'>
-      <img src="https://image.tmdb.org/t/p/original<%= movie.image %>" class='img-responsive'>
-    </div>
+<%= render partial: "shared/movies" %>
 
-    <div class='col-md-8'>
-      <h3><%= movie.title %></h3>
-      <li><%= movie.release %></li>
-      <li><%= movie.overview %></li>
-    </div>
-  </div>
-  <% end %>
-</div>
 
-<section class='articles'>
-  <h1 class='api-headers'>Top IGN articles</h1>
-  <p class='kudos'>Big shout out to <a target="_blank" href="https://newsapi.org/">The News API</a> for all this sweet information!</p>
-  <% @presenter.articles.each do |article| %>  
-    <div class='col-md-4'>
-      <li><%= link_to article.title, article.url, target: "_blank", class:'art' %></li>
-    </div>
-  <% end %>
-</section>
+<%= render partial: "shared/ign" %>
+
+
+<%= render partial: "shared/hacker" %>
+
+
+<%= render partial: "shared/espn" %>
+
+
+<%= render partial: "shared/reddit" %>
