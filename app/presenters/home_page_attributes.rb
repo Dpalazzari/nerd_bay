@@ -8,8 +8,12 @@ class HomePageAttributes
     MovieDatabase.now_playing
   end
 
-  def articles
+  def ign_articles
     IgnArticles.newest
+  end
+
+  def hacker_articles
+    HackerArticles.top_articles
   end
 
 end
