@@ -24,4 +24,4 @@
 /config/application.yml
 coverage
 /public/assets/*
-/fixtures
+/spec/fixtures/*
