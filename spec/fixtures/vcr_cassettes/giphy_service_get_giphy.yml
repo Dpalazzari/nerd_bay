@@ -46,26 +46,26 @@ http_interactions:
       X-Cachiness-Origin-Respect:
       - respect_origin
       Content-Length:
-      - '286'
+      - '363'
       Date:
-      - Sun, 26 Feb 2017 00:29:32 GMT
+      - Sun, 26 Feb 2017 01:09:38 GMT
       Via:
       - 1.1 varnish
       Connection:
       - keep-alive
       X-Served-By:
-      - cache-sjc3136-SJC
+      - cache-den6021-DEN
       X-Cache:
       - MISS
       X-Cache-Hits:
       - '0'
       X-Timer:
-      - S1488068971.914204,VS0,VE106
+      - S1488071378.436263,VS0,VE78
       Vary:
       - Accept-Encoding
     body:
       encoding: ASCII-8BIT
-      string: "  \n\n{\"data\":{\"type\":\"gif\",\"id\":\"Ld5wgwYDoFxK0\",\"url\":\"http:\\/\\/giphy.com\\/gifs\\/Ld5wgwYDoFxK0\",\"image_original_url\":\"\",\"image_url\":\"\",\"image_mp4_url\":\"\",\"image_frames\":\"0\",\"image_width\":\"0\",\"image_height\":\"0\",\"fixed_height_downsampled_url\":\"\",\"fixed_height_downsampled_width\":\"0\",\"fixed_height_downsampled_height\":\"0\",\"fixed_width_downsampled_url\":\"\",\"fixed_width_downsampled_width\":\"0\",\"fixed_width_downsampled_height\":\"0\",\"fixed_height_small_url\":\"\",\"fixed_height_small_still_url\":\"\",\"fixed_height_small_width\":\"0\",\"fixed_height_small_height\":\"0\",\"fixed_width_small_url\":\"\",\"fixed_width_small_still_url\":\"\",\"fixed_width_small_width\":\"0\",\"fixed_width_small_height\":\"0\",\"username\":\"\",\"caption\":\"\"},\"meta\":{\"status\":200,\"msg\":\"OK\",\"response_id\":\"58b2216b86a49752692378da\"}}"
+      string: "  \n\n{\"data\":{\"type\":\"gif\",\"id\":\"et3KnI24qW8Bq\",\"url\":\"http:\\/\\/giphy.com\\/gifs\\/becky-g-gifs-gif-hunt-et3KnI24qW8Bq\",\"image_original_url\":\"http:\\/\\/media2.giphy.com\\/media\\/et3KnI24qW8Bq\\/giphy.gif\",\"image_url\":\"http:\\/\\/media2.giphy.com\\/media\\/et3KnI24qW8Bq\\/giphy.gif\",\"image_mp4_url\":\"http:\\/\\/media2.giphy.com\\/media\\/et3KnI24qW8Bq\\/giphy.mp4\",\"image_frames\":\"32\",\"image_width\":\"160\",\"image_height\":\"160\",\"fixed_height_downsampled_url\":\"http:\\/\\/media2.giphy.com\\/media\\/et3KnI24qW8Bq\\/200_d.gif\",\"fixed_height_downsampled_width\":\"200\",\"fixed_height_downsampled_height\":\"200\",\"fixed_width_downsampled_url\":\"http:\\/\\/media2.giphy.com\\/media\\/et3KnI24qW8Bq\\/200w_d.gif\",\"fixed_width_downsampled_width\":\"200\",\"fixed_width_downsampled_height\":\"200\",\"fixed_height_small_url\":\"http:\\/\\/media2.giphy.com\\/media\\/et3KnI24qW8Bq\\/100.gif\",\"fixed_height_small_still_url\":\"http:\\/\\/media2.giphy.com\\/media\\/et3KnI24qW8Bq\\/100_s.gif\",\"fixed_height_small_width\":\"100\",\"fixed_height_small_height\":\"100\",\"fixed_width_small_url\":\"http:\\/\\/media2.giphy.com\\/media\\/et3KnI24qW8Bq\\/100w.gif\",\"fixed_width_small_still_url\":\"http:\\/\\/media2.giphy.com\\/media\\/et3KnI24qW8Bq\\/100w_s.gif\",\"fixed_width_small_width\":\"100\",\"fixed_width_small_height\":\"100\",\"username\":\"\",\"caption\":\"\"},\"meta\":{\"status\":200,\"msg\":\"OK\",\"response_id\":\"58b22ad21edcc1796a4eda4d\"}}"
     http_version: 
-  recorded_at: Sun, 26 Feb 2017 00:29:32 GMT
+  recorded_at: Sun, 26 Feb 2017 01:09:38 GMT
 recorded_with: VCR 3.0.3
