@@ -9,4 +9,6 @@
   <% end %>
   <p class = "login-or-separator text-center"><strong>OR</strong></p>
   <%= link_to "Create Account", new_user_path, class: "btn btn-default btn-block" %>
+  <p class = "login-or-separator text-center"><strong>OR</strong></p>
+  <%= link_to "Login thru Github", "https://github.com/login/oauth/authorize?client_id=#{ENV['client_id']}", class: "btn btn-default btn-block" %>
 </div>
