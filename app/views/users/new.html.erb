@@ -9,4 +9,6 @@
     <%= f.password_field :password, placeholder: 'Your new password', skip_label: true %>
     <%= f.submit 'Create User', {class: "btn btn-info btn-block"}%>
   <% end %>
+  <p class = "login-or-separator text-center"><strong>OR</strong></p>
+  <%= link_to "Login thru Github", "https://github.com/login/oauth/authorize?client_id=#{ENV['client_id']}", class: "btn btn-default btn-block" %>
 </div>
