@@ -20,11 +20,7 @@ class MovieDatabase
   end
 
   def format_overview(description)
-    if description
-      return description[0...250] + '...'
-    else
-      return "No description"
-    end
+    return description[0...250] + '...'
   end
 
 end
