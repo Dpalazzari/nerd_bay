@@ -1,7 +1,8 @@
 <h1 class='welcome'>Welcome to Nerd Bay, <%= current_user.name %></h1>
 
-<section class='weather'>
-<h1>Today's Forecast for <%= current_user.city %> </h1>
+<div class='container'>
+  <div class='col-md-6 weather'>
+    <h1>Today's Forecast for <%= current_user.city %> </h1>
     <h3>Outside: <%= @presenter.weather.conditions %></h3>
     <p>Description: <%= @presenter.weather.description %></p>
     <li>Current Temperature: <%= @presenter.weather.temp %> °C</li>
@@ -9,12 +10,16 @@
     <li>Today's Min temp: <%= @presenter.weather.min_temp %> °C</li>
     <li>Wind Speed: <%= @presenter.weather.wind_speed %> mps</li>
     <li>Visibility: <%= @presenter.weather.visibility %> meters</li>
-</section>
+  </div>
+  <div class='col-md-6'>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/<%= @presenter.youtube %>" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
 
 <section class='quote-of-day'>
-    <h2><%= @presenter.quote.quote %></h2>
+    <h2>"<%= @presenter.quote.quote %>"</h2>
     <p><%= @presenter.quote.author %></p>
-</section>
+</section>  
 
 <div class='container'>
   <h1 class='gifs'>Enjoy Some Random Gifs</h1>
