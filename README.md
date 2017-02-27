@@ -29,6 +29,9 @@ From the terminal:
 bundle
 ```
 ```
+rake db:{create, migrate, test:prepare}
+```
+```
 rails s
 ```
 
