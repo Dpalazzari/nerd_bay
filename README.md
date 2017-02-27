@@ -6,10 +6,15 @@
 To get this project up and running locally on your own machine, you must obtain several api_keys from different sites:
 
 1) Get a client id and secret_client from github.
-2) You also need an API key from [The movei Database](https://www.themoviedb.org/)
+
+2) You also need an API key from [The movie Database](https://www.themoviedb.org/)
+
 3) Get an API key from [Twitch](https://dev.twitch.tv/)
+
 4) Get an API key from [The News API](https://newsapi.org/)
+
 5) Get an API key from [Open Weather Map API](https://openweathermap.org/api)
+
 
 Once all relevant API keys have been obtained, add them to your application.yml file using 
 ```
