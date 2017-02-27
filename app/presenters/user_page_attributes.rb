@@ -14,8 +14,12 @@ class UserPageAttributes
     Quote.of_the_day
   end
 
-   def giphy
+  def giphy
     Giphy.trending
+  end
+
+  def youtube
+    YoutubeScraper.get_most_popular
   end
 
 end

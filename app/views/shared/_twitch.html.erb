@@ -1,6 +1,6 @@
 <div class='container'>
   <h1 class='api-headers'>Top 10 Twitch Streamers Online Now</h1>
-  <% @presenter.streams.take(10).each do |stream|%>
+  <% @presenter.streams[1..10].each do |stream|%>
   <div class='col-md-6'>
     <div class='col-md-8'>
       <%= image_tag(stream.logo, class:'img-responsive') %>
