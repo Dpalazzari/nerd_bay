@@ -1,9 +1,19 @@
-<div class='container'>
-  <h1 class='api-headers'>Hottest Twitch Stream</h1>
-  <iframe src="https://player.twitch.tv/?channel=<%= @stream[0].streamer %>" frameborder="0" allowfullscreen="true" scrolling="no" height="600" width="1140"></iframe><a href="https://www.twitch.tv/#{@stream[0].streamer}?tt_medium=live_embed&tt_content=text_link" target="_blank" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;">Watch live video from <%= @stream[0].streamer %> on www.twitch.tv</a>
-</div>
 <div class="container">
-  <button id='fetch-twitches' name="button-fetch" class="btn btn-default pull-right">View Streamers</button> <button id='fetch-movies' name="button-fetch" class="btn btn-default pull-right">View Movies</button><button id='fetch-ign' name="button-fetch" class="btn btn-default pull-right">IGN Articles</button><button id='fetch-hackers' name="button-fetch" class="btn btn-default pull-right">Hacker News Articles</button><button id='fetch-espn' name="button-fetch" class="btn btn-default pull-right">ESPN Articles</button><button id='fetch-reddit' name="button-fetch" class="btn btn-default pull-right">Reddit Threads</button>
+  <button id='fetch-top' name="button-fetch" class="btn btn-default pull-right">Top Streamer</button>
+
+  <button id='fetch-twitches' name="button-fetch" class="btn btn-default pull-right">View Streamers</button> 
+
+  <button id='fetch-movies' name="button-fetch" class="btn btn-default pull-right">View Movies</button>
+
+  <button id='fetch-ign' name="button-fetch" class="btn btn-default pull-right">IGN Articles</button>
+
+  <button id='fetch-hackers' name="button-fetch" class="btn btn-default pull-right">Hacker News Articles</button>
+
+  <button id='fetch-espn' name="button-fetch" class="btn btn-default pull-right">ESPN Articles</button>
+
+  <button id='fetch-reddit' name="button-fetch" class="btn btn-default pull-right">Reddit Threads</button>
+</div>
+<div id='top-twitch' class='container hide-container'>
 </div>
 <div id='twitch' class='container hide-container'>
 </div>

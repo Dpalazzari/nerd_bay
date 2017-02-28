@@ -2,6 +2,8 @@ Rails.application.routes.draw do
   root 'home#index'
 
   get '/auth/github/callback' => 'github#create'
+
+  get '/top_twitch' => 'home#top_streamer'
   get '/twitch_call' => 'home#twitch_call'
   get '/movies_call' => 'home#movie_call'
   get '/ign_call' => 'home#ign_call'

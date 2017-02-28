@@ -1,7 +1,11 @@
 class HomeController < ApplicationController
 
   def index
+  end
+
+  def top_streamer
     @stream = HomePageAttributes.new.streams
+    render partial: 'shared/top_streamer'
   end
 
   def twitch_call
