@@ -1,0 +1,109 @@
+$(document).ready(function(){
+  $('#fetch-twitches').on('click', function(){
+    if($('#twitch').hasClass('hide-container')){
+      return $.ajax({
+      url: "/twitch_call",
+      method: 'GET'
+    }).done(function(response){
+      // console.log(response);
+      $('#twitch').html(response);
+      $('#twitch').removeClass('hide-container');
+    }).fail(function(error){
+      console.log(error);
+    });
+    } else {
+      $('#twitch').addClass('hide-container');
+    };
+  });
+
+  $('#fetch-movies').on('click', function(){
+    if($('#movies').hasClass('hide-container')){
+      return $.ajax({
+      url: "/movies_call",
+      method: 'GET'
+    }).done(function(response){
+      // console.log(response);
+      $('#movies').html(response);
+      $('#movies').removeClass('hide-container');
+    }).fail(function(error){
+      console.log(error);
+    });
+    } else {
+      $('#movies').addClass('hide-container');
+    };
+  });
+
+  $('#fetch-ign').on('click', function(){
+    if($('#ign').hasClass('hide-container')){
+      return $.ajax({
+      url: "/ign_call",
+      method: 'GET'
+    }).done(function(response){
+      // console.log(response);
+      $('#ign').html(response);
+      $('#ign').removeClass('hide-container');
+    }).fail(function(error){
+      console.log(error);
+    });
+    } else {
+      $('#ign').addClass('hide-container');
+    };
+  });
+
+  $('#fetch-hackers').on('click', function(){
+    if($('#hackers').hasClass('hide-container')){
+      return $.ajax({
+      url: "/hacker_call",
+      method: 'GET'
+    }).done(function(response){
+      // console.log(response);
+      $('#hackers').html(response);
+      $('#hackers').removeClass('hide-container');
+    }).fail(function(error){
+      console.log(error);
+    });
+    } else {
+      $('#hackers').addClass('hide-container');
+    };
+  });
+
+  $('#fetch-espn').on('click', function(){
+    if($('#espn').hasClass('hide-container')){
+      return $.ajax({
+      url: "/espn_call",
+      method: 'GET'
+    }).done(function(response){
+      // console.log(response);
+      $('#espn').html(response);
+      $('#espn').removeClass('hide-container');
+    }).fail(function(error){
+      console.log(error);
+    });
+    } else {
+      $('#espn').addClass('hide-container');
+    };
+  });
+
+
+  $('#fetch-reddit').on('click', function(){
+    if($('#reddit').hasClass('hide-container')){
+      return $.ajax({
+      url: "/reddit_call",
+      method: 'GET'
+    }).done(function(response){
+      // console.log(response);
+      $('#reddit').html(response);
+      $('#reddit').removeClass('hide-container');
+    }).fail(function(error){
+      console.log(error);
+    });
+    } else {
+      $('#reddit').addClass('hide-container');
+    };
+  });
+
+
+});
+
+
+// if ($(window).scrollTop() >= ($(document).height() - $(window).height())*0.7){
