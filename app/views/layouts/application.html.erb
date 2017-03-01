@@ -6,7 +6,6 @@
     <%= csrf_meta_tags %>
 
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
-    <%= javascript_include_tag 'application', "data-no-turbolink": true  %>
   </head>
   <header>
     <%= render partial: 'shared/navbar' %>
@@ -15,4 +14,5 @@
     <%= render partial: 'shared/flash' %>
     <%= yield %>
   </body>
+    <%= javascript_include_tag 'application', "data-no-turbolink": true  %>
 </html>
