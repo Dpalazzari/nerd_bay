@@ -1,4 +1,5 @@
 $(document).ready(function(){
+  console.log('js loaded...');
   $('#fetch-top').on('click', function(){
     if($('#top-twitch').hasClass('hide-container')){
       return $.ajax({

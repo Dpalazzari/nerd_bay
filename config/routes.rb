@@ -12,7 +12,6 @@ Rails.application.routes.draw do
   get '/reddit_call' => 'home#reddit'
 
   resources :users, only: [:new, :create]
-  get '/about' => 'about#index'
   get '/dashboard' => 'users#show'
   get '/login' => 'sessions#new'
   post '/login' => 'sessions#create'
