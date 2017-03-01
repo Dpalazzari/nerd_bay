@@ -81,5 +81,3 @@ test:
 production:
   <<: *default
   database: nerd_bay_production
-  username: nerd_bay
-  password: <%= ENV['NERD_BAY_DATABASE_PASSWORD'] %>
