@@ -46,26 +46,26 @@ http_interactions:
       X-Cachiness-Origin-Respect:
       - respect_origin
       Content-Length:
-      - '367'
+      - '347'
       Date:
-      - Wed, 01 Mar 2017 03:42:35 GMT
+      - Wed, 01 Mar 2017 03:59:59 GMT
       Via:
       - 1.1 varnish
       Connection:
       - keep-alive
       X-Served-By:
-      - cache-den6020-DEN
+      - cache-den6023-DEN
       X-Cache:
       - MISS
       X-Cache-Hits:
       - '0'
       X-Timer:
-      - S1488339755.386412,VS0,VE79
+      - S1488340799.721898,VS0,VE78
       Vary:
       - Accept-Encoding
     body:
       encoding: ASCII-8BIT
-      string: "  \n\n{\"data\":{\"type\":\"gif\",\"id\":\"aen42jQOP8Scg\",\"url\":\"http:\\/\\/giphy.com\\/gifs\\/shameless-us-ian-gallagher-aen42jQOP8Scg\",\"image_original_url\":\"http:\\/\\/media2.giphy.com\\/media\\/aen42jQOP8Scg\\/giphy.gif\",\"image_url\":\"http:\\/\\/media2.giphy.com\\/media\\/aen42jQOP8Scg\\/giphy.gif\",\"image_mp4_url\":\"http:\\/\\/media2.giphy.com\\/media\\/aen42jQOP8Scg\\/giphy.mp4\",\"image_frames\":\"9\",\"image_width\":\"245\",\"image_height\":\"245\",\"fixed_height_downsampled_url\":\"http:\\/\\/media2.giphy.com\\/media\\/aen42jQOP8Scg\\/200_d.gif\",\"fixed_height_downsampled_width\":\"200\",\"fixed_height_downsampled_height\":\"200\",\"fixed_width_downsampled_url\":\"http:\\/\\/media2.giphy.com\\/media\\/aen42jQOP8Scg\\/200w_d.gif\",\"fixed_width_downsampled_width\":\"200\",\"fixed_width_downsampled_height\":\"200\",\"fixed_height_small_url\":\"http:\\/\\/media2.giphy.com\\/media\\/aen42jQOP8Scg\\/100.gif\",\"fixed_height_small_still_url\":\"http:\\/\\/media2.giphy.com\\/media\\/aen42jQOP8Scg\\/100_s.gif\",\"fixed_height_small_width\":\"100\",\"fixed_height_small_height\":\"100\",\"fixed_width_small_url\":\"http:\\/\\/media2.giphy.com\\/media\\/aen42jQOP8Scg\\/100w.gif\",\"fixed_width_small_still_url\":\"http:\\/\\/media2.giphy.com\\/media\\/aen42jQOP8Scg\\/100w_s.gif\",\"fixed_width_small_width\":\"100\",\"fixed_width_small_height\":\"100\",\"username\":\"\",\"caption\":\"\"},\"meta\":{\"status\":200,\"msg\":\"OK\",\"response_id\":\"58b6432b0c752f059947ca65\"}}"
+      string: "  \n\n{\"data\":{\"type\":\"gif\",\"id\":\"qhh9m9GEpdU88\",\"url\":\"http:\\/\\/giphy.com\\/gifs\\/qhh9m9GEpdU88\",\"image_original_url\":\"http:\\/\\/media3.giphy.com\\/media\\/qhh9m9GEpdU88\\/giphy.gif\",\"image_url\":\"http:\\/\\/media3.giphy.com\\/media\\/qhh9m9GEpdU88\\/giphy.gif\",\"image_mp4_url\":\"http:\\/\\/media3.giphy.com\\/media\\/qhh9m9GEpdU88\\/giphy.mp4\",\"image_frames\":\"22\",\"image_width\":\"160\",\"image_height\":\"160\",\"fixed_height_downsampled_url\":\"http:\\/\\/media3.giphy.com\\/media\\/qhh9m9GEpdU88\\/200_d.gif\",\"fixed_height_downsampled_width\":\"200\",\"fixed_height_downsampled_height\":\"200\",\"fixed_width_downsampled_url\":\"http:\\/\\/media3.giphy.com\\/media\\/qhh9m9GEpdU88\\/200w_d.gif\",\"fixed_width_downsampled_width\":\"200\",\"fixed_width_downsampled_height\":\"200\",\"fixed_height_small_url\":\"http:\\/\\/media3.giphy.com\\/media\\/qhh9m9GEpdU88\\/100.gif\",\"fixed_height_small_still_url\":\"http:\\/\\/media3.giphy.com\\/media\\/qhh9m9GEpdU88\\/100_s.gif\",\"fixed_height_small_width\":\"100\",\"fixed_height_small_height\":\"100\",\"fixed_width_small_url\":\"http:\\/\\/media3.giphy.com\\/media\\/qhh9m9GEpdU88\\/100w.gif\",\"fixed_width_small_still_url\":\"http:\\/\\/media3.giphy.com\\/media\\/qhh9m9GEpdU88\\/100w_s.gif\",\"fixed_width_small_width\":\"100\",\"fixed_width_small_height\":\"100\",\"username\":\"\",\"caption\":\"\"},\"meta\":{\"status\":200,\"msg\":\"OK\",\"response_id\":\"58b6473fe2e4798048ee07f5\"}}"
     http_version: 
-  recorded_at: Wed, 01 Mar 2017 03:42:35 GMT
+  recorded_at: Wed, 01 Mar 2017 03:59:59 GMT
 recorded_with: VCR 3.0.3
