@@ -24,6 +24,11 @@ class UsersController < ApplicationController
     end
   end
 
+  def weather
+    @presenter = UserPageAttributes.new(current_user)
+    render partial: 'private/data'
+  end
+
   private
 
   def user_params

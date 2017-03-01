@@ -33,42 +33,41 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Wed, 01 Mar 2017 03:59:54 GMT
+      - Wed, 01 Mar 2017 18:52:47 GMT
       Content-Length:
-      - '4655'
+      - '4467'
     body:
       encoding: UTF-8
       string: '{"status":"ok","source":"ign","sortBy":"top","articles":[{"author":"Jesse
-        Schedeen","title":"The Flash: \"Attack on Central City\" Review - IGN","description":"It
-        was all hands on deck this week as Gorilla Grodd and his army of apes invaded
-        Central City.","url":"http://www.ign.com/articles/2017/03/01/the-flash-attack-on-central-city-review?abthid=58b6429864376e0616000025","urlToImage":"http://assets1.ignimgs.com/2017/02/28/theflash-1280-11-1488323225415_1280w.jpg","publishedAt":"2017-03-01T03:40:40Z"},{"author":null,"title":"Alien:
-        Covenant - Trailer #2 - IGN Video","description":"The latest Alien: Covenant
-        trailer has landed, and offers a glimpse of the film''s deadly creatures.","url":"http://www.ign.com/videos/2017/03/01/alien-covenant-trailer-2","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/3/1/alienthumb-1488339176311_1280w.jpg","publishedAt":"2017-03-01T03:14:00Z"},{"author":"Alex
-        Gilyadov","title":"Dunkirk: Christopher Nolan''s WWII Epic Utilizes Unconventional
-        Structure - IGN","description":"Christopher Nolan has revealed that his latest
-        film, Dunkirk, will tell its story in an unconventional way.","url":"http://www.ign.com/articles/2017/03/01/dunkirk-christopher-nolans-wwii-epic-utilizes-unconventional-structure","urlToImage":"http://assets1.ignimgs.com/2016/12/12/dunkirk-poster-1280-1481568337577_1280w.jpg","publishedAt":"2017-03-01T02:54:05Z"},{"author":null,"title":"Nintendo
-        Switch Games - Nintendo Switch Wiki Guide - IGN","description":"Nintendo Switch
-        Games - Nintendo Switch: This page contains a list of rumored and confirmed
-        games for the Nintendo Switch (previously the NX). 75 Nintendo Switch games
-        have been confirmed, w...","url":"http://www.ign.com/wikis/nintendo-switch/Nintendo_Switch_Games","urlToImage":"http://assets1.ignimgs.com/2015/05/27/contentplaceholderpng-967b4c.png","publishedAt":null},{"author":null,"title":"Things
-        to Do First - Horizon: Zero Dawn Wiki Guide - IGN","description":"Things to
-        Do First - Horizon: Zero Dawn: This page contains tips, tricks, strategies
-        and suggestions for players just beginning their adventure through Horizon:
-        Zero Dawn. KNOW SOMETHING WE...","url":"http://www.ign.com/wikis/horizon-zero-dawn/Things_to_Do_First","urlToImage":"http://oystatic.ignimgs.com/src/core/img/widgets/global/page/ign-logo-100x100.jpg","publishedAt":null},{"author":"Joshua
-        Yehl","title":"New Creative Team Pits Old Man Logan Against Hulks of the Future
-        - IGN","description":"New details of Old Man Logan''s next quest have been
-        revealed -- and it''s looking pretty green!","url":"http://www.ign.com/articles/2017/03/01/new-creative-team-pits-old-man-logan-against-hulks-of-the-future","urlToImage":"http://assets1.ignimgs.com/2017/03/01/old-man-logan-25-235345-br-1488330254707_1280w.jpg","publishedAt":"2017-03-01T01:07:16Z"},{"author":null,"title":"Play
-        Dead, or Specifically, Play Death, in Flipping Death - IGN Video","description":"Death
-        is on vacation, leaving the collecting of souls in the capable hands of Penny.
-        It''s up to you to guide Penny in her quest to help trapped ghosts on Nintendo
-        Switch.","url":"http://www.ign.com/videos/2017/03/01/play-dead-or-specifically-play-death-in-flipping-death","urlToImage":"http://assets1.ignimgs.com/thumbs/2017/02/28/3-9fe64f4c5e536cb3535961b3d4607f09-1488329776/frame_0000_1280w.jpg","publishedAt":"2017-03-01T00:52:00Z"},{"author":"Jesse
-        Schedeen","title":"Top 10 Best Wolverine Fights - IGN","description":"Wolverine''s
-        the best at what he does -- stabbing people. Here''s his 10 best brawls.","url":"http://www.ign.com/articles/2013/11/20/wolverines-greatest-fights","urlToImage":"http://assets2.ignimgs.com/2013/11/20/wolverinesabretoothjpg-e96958_1280w.jpg","publishedAt":"2013-11-20T22:03:00Z"},{"author":null,"title":"Midseason
-        TV Preview: Winter and Spring 2017 Debuts - IGN - Page 3","description":"Iron
-        Fist, Legion, and American Gods debut, The 100 and iZombie return, Black Sails
-        and Bates Motel end and much more! Your guide to midseason TV. - Page 3","url":"http://www.ign.com/articles/2016/12/30/midseason-2017-tv-preview?page=3","urlToImage":"http://assets1.ignimgs.com/2017/03/01/marchtv-1280-1488328908991_1280w.jpg","publishedAt":"2016-12-30T17:50:11Z"},{"author":null,"title":"Indie
-        Rogue-Like TumbleSeed Comes to Switch - IGN Video","description":"Procedurally
-        generated mountains covered in angry enemies stand between you and your home.","url":"http://www.ign.com/videos/2017/03/01/indie-rogue-like-tumbleseed-comes-to-switch","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/28/36190303tumbleseedscreenshotforest-1488329179040_1280w.png","publishedAt":"2017-03-01T00:25:00Z"}]}'
+        Schedeen","title":"Ego the Living Planet Explained: Who Is the Guardians of
+        the Galaxy Vol. 2 Character? - IGN","description":"We break down the origin
+        and background of Kurt Russell''s Ego the Living Planet, the strangest addition
+        to Marvel''s Guardians Vol. 2.","url":"http://www.ign.com/articles/2017/03/01/ego-the-living-planet-explained-who-is-the-guardians-of-the-galaxy-vol-2-character?abthid=58b713846c2627891f000004","urlToImage":"http://assets1.ignimgs.com/2017/03/01/ego-1280-1488392931436_1280w.jpg","publishedAt":"2017-03-01T18:31:31Z"},{"author":"Dan
+        Stapleton","title":"Robo Recall Review - IGN","description":"This Oculus Touch
+        shooter really makes a case for the hardware.","url":"http://www.ign.com/articles/2017/03/01/robo-recall-review","urlToImage":"http://assets1.ignimgs.com/2017/03/01/roborecall-1280-1488351996761_1280w.jpg","publishedAt":"2017-03-01T18:30:31Z"},{"author":"Jesse
+        Schedeen","title":"Batman #18 Review - IGN","description":"The fists fly in
+        the latest chapter of \"I Am Bane\" as the Dark Knight confronts his revenge-obsessed
+        foe.","url":"http://www.ign.com/articles/2017/03/01/batman-18-review-2?abthid=58b7125d9e4a918b1f000006","urlToImage":"http://assets1.ignimgs.com/2017/03/01/rsz-gallerycomics-1920x1080-20170301-bm-cv18-589ba44d087b7839781224-1488392600215_1280w.jpg","publishedAt":"2017-03-01T18:26:36Z"},{"author":null,"title":"Easter
+        Eggs - Horizon: Zero Dawn Wiki Guide - IGN","description":"Easter Eggs - Horizon:
+        Zero Dawn: This page contains the Easter Eggs and references hidden throughout
+        Horizon Zero Dawn. FIND SOMETHING WE HAVEN''T? You can add it to this page
+        by cli...","url":"http://www.ign.com/wikis/horizon-zero-dawn/Easter_Eggs","urlToImage":"http://assets1.ignimgs.com/2015/05/27/contentplaceholderpng-967b4c.png","publishedAt":null},{"author":"Michael
+        Passalacqua","title":"Ultra Street Fighter 2: The Final Challengers Switch
+        Release Date, Price Announced - IGN","description":"Ultra Street Fighter 2
+        will come to the Nintendo Switch in May.","url":"http://www.ign.com/articles/2017/03/01/ultra-street-fighter-2-the-final-challengers-switch-release-date-price-announced","urlToImage":"http://assets1.ignimgs.com/2017/01/20/joycons-1280-1484948545740_1280w.jpg","publishedAt":"2017-03-01T17:37:44Z"},{"author":"Matt
+        Fowler","title":"New to Netflix for March 2017 - IGN","description":"Netflix
+        in March means Marvel''s Iron Fist, WRoger Rabbit, Better Call Saul: Season
+        2, Jurassic Park, and more!","url":"http://www.ign.com/articles/2017/02/23/new-to-netflix-for-march-2017","urlToImage":"http://assets1.ignimgs.com/2017/02/23/eunnamed-1487877516286_1280w.jpg","publishedAt":"2017-02-23T20:22:44Z"},{"author":null,"title":"Nintendo
+        Switch Official News and eShop Trailer - IGN Video","description":"Learn how
+        to purchase downloadable games on the hybrid system.","url":"http://www.ign.com/videos/2017/03/01/nintendo-switch-official-news-and-eshop-trailer","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/3/1/switcheshop-1488386610646_1280w.jpg","publishedAt":"2017-03-01T16:46:00Z"},{"author":null,"title":"Logan''s
+        Cyborg Villain: Mutant Fanboy? - IGN Video","description":"Logan''s Boyd Holbrook
+        discusses his baddie Donald Pierce, and how the character regards the X-Men
+        of the past, present and future!","url":"http://www.ign.com/videos/2017/03/01/logans-cyborg-villain-mutant-fanboy","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/28/unnamed-2-1488333947892_1280w.jpg","publishedAt":"2017-03-01T16:05:00Z"},{"author":null,"title":"Call
+        of Duty: Infinite Warfare Official 2/28 Quartermaster Update Trailer - IGN
+        Video","description":"The new R-VN energy rifle fires off a two-round energy
+        burst, plus can be broken apart for melee.","url":"http://www.ign.com/videos/2017/03/01/call-of-duty-infinite-warfare-official-228-quartermaster-update-trailer","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/3/1/callquarter-1488380905360_1280w.jpg","publishedAt":"2017-03-01T15:14:00Z"},{"author":"Matt
+        Porter","title":"Xbox Game Pass Won''t Change Games With Gold Service - IGN","description":"Xbox
+        Live Gold members will still receive the same benefits as before.","url":"http://www.ign.com/articles/2017/03/01/xbox-game-pass-wont-change-games-with-gold-service","urlToImage":"http://assets2.ignimgs.com/2015/11/12/xb1jpg-9b3dcd_1280w.jpg","publishedAt":"2017-03-01T14:40:35Z"}]}'
     http_version: 
-  recorded_at: Wed, 01 Mar 2017 03:59:59 GMT
+  recorded_at: Wed, 01 Mar 2017 18:52:54 GMT
 recorded_with: VCR 3.0.3
