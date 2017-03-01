@@ -3,8 +3,15 @@ Rails.application.routes.draw do
 
   get '/auth/github/callback' => 'github#create'
 
+  get '/top_twitch' => 'home#top_streamer'
+  get '/twitch_call' => 'home#twitch_call'
+  get '/movies_call' => 'home#movie_call'
+  get '/ign_call' => 'home#ign_call'
+  get '/hacker_call' => 'home#hackers'
+  get '/espn_call' => 'home#espn'
+  get '/reddit_call' => 'home#reddit'
+
   resources :users, only: [:new, :create]
-  get '/about' => 'about#index'
   get '/dashboard' => 'users#show'
   get '/login' => 'sessions#new'
   post '/login' => 'sessions#create'
