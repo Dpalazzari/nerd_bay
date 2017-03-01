@@ -10,6 +10,7 @@ Rails.application.routes.draw do
   get '/hacker_call' => 'home#hackers'
   get '/espn_call' => 'home#espn'
   get '/reddit_call' => 'home#reddit'
+  get '/weather' => 'users#weather'
 
   resources :users, only: [:new, :create]
   get '/dashboard' => 'users#show'
