@@ -30,7 +30,7 @@ class UsersController < ApplicationController
   end
 
   def youtube
-    @youtube = YoutubeScraper.get_most_popular
+    @youtube = Rails.cache.fetch('youtube_link')
     render partial: 'private/youtube'
   end
 
