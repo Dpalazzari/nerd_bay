@@ -25,8 +25,13 @@ class UsersController < ApplicationController
   end
 
   def weather
-    @presenter = UserPageAttributes.new(current_user)
+    @weather = Weather.get_data(current_user.city)
     render partial: 'private/data'
+  end
+
+  def youtube
+    @youtube = YoutubeScraper.get_most_popular
+    render partial: 'private/youtube'
   end
 
   private

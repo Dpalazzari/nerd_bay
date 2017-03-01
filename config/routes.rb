@@ -11,6 +11,7 @@ Rails.application.routes.draw do
   get '/espn_call' => 'home#espn'
   get '/reddit_call' => 'home#reddit'
   get '/weather' => 'users#weather'
+  get 'youtube' => 'users#youtube'
 
   resources :users, only: [:new, :create]
   get '/dashboard' => 'users#show'

@@ -1,7 +1,14 @@
 <h1 class='welcome'>Welcome to Nerd Bay, <%= current_user.name %></h1><div class='container'>
-  <button id='fetch-weather' name="button-fetch" class="btn btn-info btn-lg pull-right">Give me the news!</button>  
+  <button id='fetch-weather' name="button-fetch" class="btn btn-info btn-lg pull-left">Give me the Weather!</button>  
+  <button id='fetch-youtube' name="button-fetch" class="btn btn-info btn-lg pull-right">Top youtube video</button>  
 </div>
-<div id='weather' class='hide-container'>
+
+<div class='container'>
+  <div id='weather' class='col-md-6 hide-container'>  
+  </div>
+  <div id ='youtube' class='col-md-6 hide-container'>
+    
+  </div>
 </div>
 
 <section class='quote-of-day'>
