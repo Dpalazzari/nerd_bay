@@ -10,10 +10,16 @@ RSpec.describe User, type: :model do
   end
 
   context '.social_login' do
-    it 'returns a boolean depending on social_login status' do
+    it 'returns false on social_login status' do
       user = create(:user)
       
       expect(user.social_login).to be_falsey
+    end
+
+    it 'returns true on social_login status' do
+      user = create(:user, social_login: true)
+
+      expect(user.social_login?).to be_truthy
     end
   end
 end
