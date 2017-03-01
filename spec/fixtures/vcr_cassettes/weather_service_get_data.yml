@@ -21,11 +21,11 @@ http_interactions:
       Server:
       - openresty
       Date:
-      - Wed, 01 Mar 2017 01:35:24 GMT
+      - Wed, 01 Mar 2017 03:42:38 GMT
       Content-Type:
       - application/json; charset=utf-8
       Content-Length:
-      - '493'
+      - '453'
       Connection:
       - keep-alive
       X-Cache-Key:
@@ -38,8 +38,8 @@ http_interactions:
       - GET, POST
     body:
       encoding: UTF-8
-      string: '{"coord":{"lon":-104.98,"lat":39.74},"weather":[{"id":600,"main":"Snow","description":"light
-        snow","icon":"13n"},{"id":701,"main":"Mist","description":"mist","icon":"50n"}],"base":"stations","main":{"temp":-1.77,"pressure":1010,"humidity":92,"temp_min":-3,"temp_max":0},"visibility":14484,"wind":{"speed":2.1,"deg":20},"clouds":{"all":90},"dt":1488329760,"sys":{"type":1,"id":546,"message":0.0079,"country":"US","sunrise":1488375146,"sunset":1488415946},"id":5419384,"name":"Denver","cod":200}'
+      string: '{"coord":{"lon":-104.98,"lat":39.74},"weather":[{"id":803,"main":"Clouds","description":"broken
+        clouds","icon":"04n"}],"base":"stations","main":{"temp":-3.18,"pressure":1013,"humidity":32,"temp_min":-6,"temp_max":0},"visibility":16093,"wind":{"speed":11.3,"deg":320,"gust":14.9},"clouds":{"all":75},"dt":1488336960,"sys":{"type":1,"id":546,"message":0.0365,"country":"US","sunrise":1488375138,"sunset":1488415952},"id":5419384,"name":"Denver","cod":200}'
     http_version: 
-  recorded_at: Wed, 01 Mar 2017 01:35:23 GMT
+  recorded_at: Wed, 01 Mar 2017 03:42:37 GMT
 recorded_with: VCR 3.0.3

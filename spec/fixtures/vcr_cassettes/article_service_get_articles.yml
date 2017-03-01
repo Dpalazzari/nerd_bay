@@ -33,12 +33,24 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Wed, 01 Mar 2017 01:35:15 GMT
+      - Wed, 01 Mar 2017 03:42:29 GMT
       Content-Length:
-      - '4868'
+      - '4646'
     body:
       encoding: UTF-8
-      string: '{"status":"ok","source":"ign","sortBy":"top","articles":[{"author":null,"title":"Things
+      string: '{"status":"ok","source":"ign","sortBy":"top","articles":[{"author":null,"title":"Alien:
+        Covenant - Trailer #2 - IGN Video","description":"The latest Alien: Covenant
+        trailer has landed, and offers a glimpse of the film''s deadly creatures.","url":"http://www.ign.com/videos/2017/03/01/alien-covenant-trailer-2","urlToImage":"http://assets1.ignimgs.com/thumbs/2017/02/28/3-d87030ebca1554098ea26ed9afa9329e-1488338503/frame_0000_1280w.jpg","publishedAt":"2017-03-01T03:14:00Z"},{"author":"Alex
+        Gilyadov","title":"Dunkirk: Christopher Nolan''s WWII Epic Utilizes Unconventional
+        Structure - IGN","description":"Christopher Nolan has revealed that his latest
+        film, Dunkirk, will tell its story in an unconventional way.","url":"http://www.ign.com/articles/2017/03/01/dunkirk-christopher-nolans-wwii-epic-utilizes-unconventional-structure","urlToImage":"http://assets1.ignimgs.com/2016/12/12/dunkirk-poster-1280-1481568337577_1280w.jpg","publishedAt":"2017-03-01T02:54:05Z"},{"author":null,"title":"Nintendo
+        Switch Games - Nintendo Switch Wiki Guide - IGN","description":"Nintendo Switch
+        Games - Nintendo Switch: This page contains a list of rumored and confirmed
+        games for the Nintendo Switch (previously the NX). 75 Nintendo Switch games
+        have been confirmed, w...","url":"http://www.ign.com/wikis/nintendo-switch/Nintendo_Switch_Games","urlToImage":"http://assets1.ignimgs.com/2015/05/27/contentplaceholderpng-967b4c.png","publishedAt":null},{"author":"Jesse
+        Schedeen","title":"The Flash: \"Attack on Central City\" Review - IGN","description":"Let
+        us know what you thought of tonight''s episode, as Gorilla Grodd''s army invaded
+        Central City.","url":"http://www.ign.com/articles/2017/03/01/the-flash-attack-on-central-city-review","urlToImage":"http://assets1.ignimgs.com/2017/02/28/theflash-1280-11-1488323225415_1280w.jpg","publishedAt":"2017-03-01T02:00:40Z"},{"author":null,"title":"Things
         to Do First - Horizon: Zero Dawn Wiki Guide - IGN","description":"Things to
         Do First - Horizon: Zero Dawn: This page contains tips, tricks, strategies
         and suggestions for players just beginning their adventure through Horizon:
@@ -54,22 +66,9 @@ http_interactions:
         the best at what he does -- stabbing people. Here''s his 10 best brawls.","url":"http://www.ign.com/articles/2013/11/20/wolverines-greatest-fights","urlToImage":"http://assets2.ignimgs.com/2013/11/20/wolverinesabretoothjpg-e96958_1280w.jpg","publishedAt":"2013-11-20T22:03:00Z"},{"author":null,"title":"Midseason
         TV Preview: Winter and Spring 2017 Debuts - IGN - Page 3","description":"Iron
         Fist, Legion, and American Gods debut, The 100 and iZombie return, Black Sails
-        and Bates Motel end and much more! Your guide to midseason TV. - Page 3","url":"http://www.ign.com/articles/2016/12/30/midseason-2017-tv-preview?page=3&abthid=58b61a03a66834e417000030","urlToImage":"http://assets1.ignimgs.com/2017/03/01/marchtv-1280-1488328908991_1280w.jpg","publishedAt":"2016-12-30T17:50:11Z"},{"author":null,"title":"Indie
+        and Bates Motel end and much more! Your guide to midseason TV. - Page 3","url":"http://www.ign.com/articles/2016/12/30/midseason-2017-tv-preview?page=3","urlToImage":"http://assets1.ignimgs.com/2017/03/01/marchtv-1280-1488328908991_1280w.jpg","publishedAt":"2016-12-30T17:50:11Z"},{"author":null,"title":"Indie
         Rogue-Like TumbleSeed Comes to Switch - IGN Video","description":"Procedurally
-        generated mountains covered in angry enemies stand between you and your home.","url":"http://www.ign.com/videos/2017/03/01/indie-rogue-like-tumbleseed-comes-to-switch","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/28/36190303tumbleseedscreenshotforest-1488329179040_1280w.png","publishedAt":"2017-03-01T00:25:00Z"},{"author":"Shawn
-        Saris","title":"Dragon Ball Super Episode 80: \"Awaken Your Sleeping Battle
-        Spirit! Son Gohan''s Fight!\" - IGN","description":"Episode 80 is an action
-        packed showdown as Gohan makes his long overdue return to the fighting scene
-        in Dragon Ball Super.","url":"http://www.ign.com/articles/2017/03/01/dragon-ball-super-episode-80-awaken-your-sleeping-battle-spirit-son-gohans-fight","urlToImage":"http://assets1.ignimgs.com/2017/03/01/dbs80b-1488326890982_1280w.jpg","publishedAt":"2017-03-01T00:08:20Z"},{"author":null,"title":"Xbox
-        Games Pass Is Like Netflix for Xbox Games - IGN Daily Fix - IGN Video","description":"Microsoft
-        announces new on-demand service for Xbox One and 360 and Horizon Zero Dawn
-        week continues.","url":"http://www.ign.com/videos/2017/03/01/xbox-games-pass-is-like-netflix-for-xbox-games-ign-daily-fix","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/28/thefixxboxgamespass-1488319940554_1280w.jpg","publishedAt":"2017-03-01T00:00:00Z"},{"author":null,"title":"SteamWorld
-        Dig 2 - World First Gameplay - IGN Video","description":"A runthrough of the
-        tutorial area from SteamWorld Dig 2, Image & Form''s Nintendo Switch sequel
-        (gameplay not necessarily final).","url":"http://www.ign.com/videos/2017/03/01/steamworld-dig-2-world-first-gameplay","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/28/untitled-6-1488283586355_1280w.jpg","publishedAt":"2017-03-01T00:00:00Z"},{"author":null,"title":"5
-        Ways The Legend of Zelda: Breath of the Wild Defies Expectations - IGN Video","description":"This
-        isn''t your childhood Zelda. As we''ve played more and more, we''ve discovered
-        new ways that Breath of the Wild defies your series expectations.","url":"http://www.ign.com/videos/2017/02/28/5-ways-the-legend-of-zelda-breath-of-the-wild-defies-expectations","urlToImage":"http://assets1.ignimgs.com/thumbs/2017/02/28/3-09c9c903cb9c09350d584e910c5ecbf8-1488326288/frame_0000_1280w.jpg","publishedAt":"2017-02-28T23:46:00Z"}]}'
+        generated mountains covered in angry enemies stand between you and your home.","url":"http://www.ign.com/videos/2017/03/01/indie-rogue-like-tumbleseed-comes-to-switch","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/28/36190303tumbleseedscreenshotforest-1488329179040_1280w.png","publishedAt":"2017-03-01T00:25:00Z"}]}'
     http_version: 
-  recorded_at: Wed, 01 Mar 2017 01:35:20 GMT
+  recorded_at: Wed, 01 Mar 2017 03:42:35 GMT
 recorded_with: VCR 3.0.3
