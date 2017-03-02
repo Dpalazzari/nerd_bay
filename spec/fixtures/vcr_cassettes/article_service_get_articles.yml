@@ -33,43 +33,44 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Wed, 01 Mar 2017 19:33:29 GMT
+      - Thu, 02 Mar 2017 02:48:16 GMT
       Content-Length:
-      - '4664'
+      - '4855'
     body:
       encoding: UTF-8
-      string: '{"status":"ok","source":"ign","sortBy":"top","articles":[{"author":null,"title":"4K:
-        Running Across Horizon Zero Dawn''s Entire Map - IGN Video","description":"Horizon
-        Zero Dawn features a huge map with beautiful sights, so we decided to run
-        across the entire thing.","url":"http://www.ign.com/videos/2017/03/01/4k-running-across-horizon-zero-dawns-entire-map","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/3/1/horizon-zero-dawn20170213140629-1488394792042_1280w.jpg","publishedAt":"2017-03-01T19:14:00Z"},{"author":"Jordan
-        Sirani","title":"Chris Hardwick Continues Talk Show Takeover with New AMC
-        Interview Series - IGN","description":"Hardwick describes the new show as
-        a blend of Talking Dead, his podcast, and a Comic Con panel.","url":"http://www.ign.com/articles/2017/03/01/chris-hardwick-continues-talk-show-takeover-with-new-amc-interview-series?abthid=58b71a6d9e4a918b1f00000a","urlToImage":"http://assets2.ignimgs.com/2014/08/12/tt32794942jpg-8de083_1280w.jpg","publishedAt":"2017-03-01T19:01:01Z"},{"author":"Terri
-        Schwartz","title":"Ghost in the Shell: Meet the Section 9 Team - IGN","description":"Ghost
-        in the Shell has a diverse array of fighters supporting Scarlett Johansson''s
-        Major.","url":"http://www.ign.com/articles/2017/03/01/ghost-in-the-shell-meet-the-section-9-team?abthid=58b60f057ac31de617000020","urlToImage":"http://assets1.ignimgs.com/2016/11/14/ghost-in-the-shell-poster-newjpg-fe2558_1280w.jpg","publishedAt":"2017-03-01T19:00:33Z"},{"author":"Eric
-        Song","title":"Daily Deals: New Free March Games Announced for Xbox Live Gold
-        Members - IGN","description":"10% off the new March Loot Gaming Crate, Deals
-        on Xbox One S, Horizon Zero Dawn, Rick and Morty, EA Games, and more","url":"http://www.ign.com/articles/2017/03/01/daily-deals-xbox-live-gold","urlToImage":"http://assets1.ignimgs.com/2017/03/01/igndailydeals-xboxdell-1280-1488391424009_1280w.jpg","publishedAt":"2017-03-01T18:50:23Z"},{"author":"Matt
-        Fowler","title":"Wrestling Wrap Up: Why Can''t We Get a Real Life Sister Abigail?
-        - IGN","description":"Plus, Randy torches Bray''s swamp hut, Cena and Nikki
-        face down Miz and Maryse, Seth Rollins blames himself, and more.","url":"http://www.ign.com/articles/2017/03/01/wrestling-wrap-up-why-cant-we-get-a-real-life-sister-abigail?abthid=58b7183c523550b01d000005","urlToImage":"http://assets1.ignimgs.com/2017/03/01/bbunnamed-1488393458698_1280w.jpg","publishedAt":"2017-03-01T18:47:37Z"},{"author":"Jesse
-        Schedeen","title":"Ego the Living Planet Explained: Who Is the Guardians of
-        the Galaxy Vol. 2 Character? - IGN","description":"We break down the origin
-        and background of Kurt Russell''s Ego the Living Planet, the strangest addition
-        to Marvel''s Guardians Vol. 2.","url":"http://www.ign.com/articles/2017/03/01/ego-the-living-planet-explained-who-is-the-guardians-of-the-galaxy-vol-2-character","urlToImage":"http://assets1.ignimgs.com/2017/03/01/ego-1280-1488392931436_1280w.jpg","publishedAt":"2017-03-01T18:31:31Z"},{"author":"Dan
-        Stapleton","title":"Robo Recall Review - IGN","description":"This Oculus Touch
-        shooter really makes a case for the hardware.","url":"http://www.ign.com/articles/2017/03/01/robo-recall-review","urlToImage":"http://assets1.ignimgs.com/2017/03/01/roborecall-1280-1488351996761_1280w.jpg","publishedAt":"2017-03-01T18:30:31Z"},{"author":"Jesse
-        Schedeen","title":"Batman #18 Review - IGN","description":"The fists fly in
-        the latest chapter of \"I Am Bane\" as the Dark Knight confronts his revenge-obsessed
-        foe.","url":"http://www.ign.com/articles/2017/03/01/batman-18-review-2","urlToImage":"http://assets1.ignimgs.com/2017/03/01/rsz-gallerycomics-1920x1080-20170301-bm-cv18-589ba44d087b7839781224-1488392600215_1280w.jpg","publishedAt":"2017-03-01T18:26:36Z"},{"author":null,"title":"Easter
-        Eggs - Horizon: Zero Dawn Wiki Guide - IGN","description":"Easter Eggs - Horizon:
-        Zero Dawn: This page contains the Easter Eggs and references hidden throughout
-        Horizon Zero Dawn. FIND SOMETHING WE HAVEN''T? You can add it to this page
-        by cli...","url":"http://www.ign.com/wikis/horizon-zero-dawn/Easter_Eggs","urlToImage":"http://assets1.ignimgs.com/2015/05/27/contentplaceholderpng-967b4c.png","publishedAt":null},{"author":"Michael
-        Passalacqua","title":"Ultra Street Fighter 2: The Final Challengers Switch
-        Release Date, Price Announced - IGN","description":"Ultra Street Fighter 2
-        will come to the Nintendo Switch in May.","url":"http://www.ign.com/articles/2017/03/01/ultra-street-fighter-2-the-final-challengers-switch-release-date-price-announced","urlToImage":"http://assets1.ignimgs.com/2017/01/20/joycons-1280-1484948545740_1280w.jpg","publishedAt":"2017-03-01T17:37:44Z"}]}'
+      string: '{"status":"ok","source":"ign","sortBy":"top","articles":[{"author":"Alex
+        Osborn","title":"Xbox Boss Hints at Scorpio Event Ahead of E3 - IGN","description":"Head
+        of Xbox Phil Spencer wants Microsoft''s E3 showing to be more about the games
+        rather than the hardware itself.","url":"http://www.ign.com/articles/2017/03/02/xbox-boss-hints-at-scorpio-event-ahead-of-e3?abthid=58b787239e4a918b1f000020","urlToImage":"http://assets2.ignimgs.com/2016/09/21/snaps-project-scorpio-about-e3-2016-on-ignarjpg-c1f4db765wjpg-f9a4c2_1280w.jpg","publishedAt":"2017-03-02T02:41:37Z"},{"author":"Jesse
+        Schedeen","title":"Arrow: \"Fighting Fire With Fire\" Review - IGN","description":"Let
+        us know what you thought of this week''s episode, as Team Arrow declared war
+        on Vigilante.","url":"http://www.ign.com/articles/2017/03/02/arrow-fighting-fire-with-fire-review","urlToImage":"http://assets1.ignimgs.com/2017/03/02/arrow-1280-14-1488414556594_1280w.jpg","publishedAt":"2017-03-02T02:00:45Z"},{"author":"Terri
+        Schwartz","title":"Arrow Showrunner and Prometheus Actor Explain the Season
+        5 Villain''s Reveal - IGN","description":"We spoke to showrunner Wendy Mericle
+        and the actor who plays Prometheus about the reveal of the Season 5 villain''s
+        identity.","url":"http://www.ign.com/articles/2017/03/02/arrow-showrunner-and-prometheus-actor-explain-the-season-5-villains-reveal","urlToImage":"http://assets1.ignimgs.com/2017/03/01/ar501a-0056b-1488403152625_1280w.jpg","publishedAt":"2017-03-02T02:00:34Z"},{"author":null,"title":"What
+        Horizon Zero Dawn Doesn''t Tell You - Horizon: Zero Dawn Wiki Guide - IGN","description":"What
+        Horizon Zero Dawn Doesn''t Tell You - Horizon: Zero Dawn: This page contains
+        tips, tricks, strategies and information that Horizon: Zero Dawn either explains
+        poorly or neglets to tell players entirely. KNOW...","url":"http://www.ign.com/wikis/horizon-zero-dawn/What_Horizon_Zero_Dawn_Doesn''t_Tell_You","urlToImage":"http://assets1.ignimgs.com/2015/05/27/contentplaceholderpng-967b4c.png","publishedAt":null},{"author":null,"title":"Playing
+        Call of Duty in a Real-Life Jet  - XGC - IGN Video","description":"We''re
+        pushing your favorite gamers to their limits! Can Nathan Barnatt play Call
+        of Duty: Infinite Warfare in the cockpit of a real jet, and survive IGN''s
+        Extreme Gaming Challenge?","url":"http://www.ign.com/videos/2017/03/02/playing-call-of-duty-in-a-real-life-jet-xgc","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/3/1/xgc11280-1488407485817_1280w.jpg","publishedAt":"2017-03-02T01:26:00Z"},{"author":null,"title":"The
+        GO Trilogy Stories - Part One: Hitman GO - IGN Video","description":"Check
+        out what went into the making of Square-Enix Montreal''s awesome game.","url":"http://www.ign.com/videos/2017/03/02/the-go-trilogy-stories-part-one-hitman-go","urlToImage":"http://assets1.ignimgs.com/thumbs/2017/03/01/3-55f8a2fa910a0fea14b813b6de1f010a-1488417392/frame_0000_1280w.jpg","publishedAt":"2017-03-02T01:14:00Z"},{"author":null,"title":"Here
+        Are 4 Very Weird Pieces of Nintendo History - IGN Video","description":"They
+        weren''t always the family-friendly company we know and love...","url":"http://www.ign.com/videos/2017/03/02/here-are-4-very-weird-pieces-of-nintendo-history","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/27/url-1488226454604_1280w.jpg","publishedAt":"2017-03-02T01:00:00Z"},{"author":"Alex
+        Gilyadov","title":"Justice League: Zack Snyder Releases Brief Aquaman Underwater
+        Footage - IGN","description":"Zack Snyder has dropped a brief clip from Justice
+        League of Aquaman swimming underwater.","url":"http://www.ign.com/articles/2017/03/02/justice-league-zack-snyder-releases-brief-aquaman-underwater-footage?abthid=58b781b0933379b21d000017","urlToImage":"http://assets2.ignimgs.com/2016/08/10/aqua-1280jpg-fccc70_1280w.jpg","publishedAt":"2017-03-02T00:58:41Z"},{"author":"Ryan
+        McCaffrey","title":"Unlocked 285: Phil Spencer Joins Us, Talks Scorpio - IGN","description":"Head
+        of Xbox Phil Spencer joins us for the entire episode to talk Scorpio, Xbox
+        Game Pass, E3, and much more!","url":"http://www.ign.com/articles/2017/03/02/unlocked-285-phil-spencer-joins-us-talks-scorpio","urlToImage":"http://assets1.ignimgs.com/2017/03/02/ms-execs-phil-spencer-cl-1280-1488414840933_1280w.jpg","publishedAt":"2017-03-02T00:50:46Z"},{"author":"Alanah
+        Pearce","title":"This Week''s IGN Newsletter: Our Editor-In-Chief''s Favorite
+        Things! - IGN","description":"IGN has two newsletters - one for awesome gaming
+        deals that''ll save you a bunch of money, and another for the most breaking,
+        important news and reviews on the site.","url":"http://www.ign.com/articles/2017/03/02/this-weeks-ign-newsletter-our-editor-in-chiefs-favorite-things?abthid=58b769bd4f5bf2b41d000016","urlToImage":"http://assets2.ignimgs.com/2015/07/15/ign-logojpg-645844_1280w.jpg","publishedAt":"2017-03-02T00:10:57Z"}]}'
     http_version: 
-  recorded_at: Wed, 01 Mar 2017 19:33:35 GMT
+  recorded_at: Thu, 02 Mar 2017 02:48:22 GMT
 recorded_with: VCR 3.0.3

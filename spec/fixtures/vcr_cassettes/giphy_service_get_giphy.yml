@@ -46,26 +46,26 @@ http_interactions:
       X-Cachiness-Origin-Respect:
       - respect_origin
       Content-Length:
-      - '367'
+      - '375'
       Date:
-      - Wed, 01 Mar 2017 19:33:35 GMT
+      - Thu, 02 Mar 2017 02:48:23 GMT
       Via:
       - 1.1 varnish
       Connection:
       - keep-alive
       X-Served-By:
-      - cache-ord1728-ORD
+      - cache-den6024-DEN
       X-Cache:
       - MISS
       X-Cache-Hits:
       - '0'
       X-Timer:
-      - S1488396815.901435,VS0,VE58
+      - S1488422903.007116,VS0,VE72
       Vary:
       - Accept-Encoding
     body:
       encoding: ASCII-8BIT
-      string: "  \n\n{\"data\":{\"type\":\"gif\",\"id\":\"xsv7C5ygxrfzi\",\"url\":\"http:\\/\\/giphy.com\\/gifs\\/multifandom-xsv7C5ygxrfzi\",\"image_original_url\":\"http:\\/\\/media1.giphy.com\\/media\\/xsv7C5ygxrfzi\\/giphy.gif\",\"image_url\":\"http:\\/\\/media1.giphy.com\\/media\\/xsv7C5ygxrfzi\\/giphy.gif\",\"image_mp4_url\":\"http:\\/\\/media1.giphy.com\\/media\\/xsv7C5ygxrfzi\\/giphy.mp4\",\"image_frames\":\"98\",\"image_width\":\"245\",\"image_height\":\"140\",\"fixed_height_downsampled_url\":\"http:\\/\\/media1.giphy.com\\/media\\/xsv7C5ygxrfzi\\/200_d.gif\",\"fixed_height_downsampled_width\":\"350\",\"fixed_height_downsampled_height\":\"200\",\"fixed_width_downsampled_url\":\"http:\\/\\/media1.giphy.com\\/media\\/xsv7C5ygxrfzi\\/200w_d.gif\",\"fixed_width_downsampled_width\":\"200\",\"fixed_width_downsampled_height\":\"114\",\"fixed_height_small_url\":\"http:\\/\\/media1.giphy.com\\/media\\/xsv7C5ygxrfzi\\/100.gif\",\"fixed_height_small_still_url\":\"http:\\/\\/media1.giphy.com\\/media\\/xsv7C5ygxrfzi\\/100_s.gif\",\"fixed_height_small_width\":\"175\",\"fixed_height_small_height\":\"100\",\"fixed_width_small_url\":\"http:\\/\\/media1.giphy.com\\/media\\/xsv7C5ygxrfzi\\/100w.gif\",\"fixed_width_small_still_url\":\"http:\\/\\/media1.giphy.com\\/media\\/xsv7C5ygxrfzi\\/100w_s.gif\",\"fixed_width_small_width\":\"100\",\"fixed_width_small_height\":\"57\",\"username\":\"\",\"caption\":\"\"},\"meta\":{\"status\":200,\"msg\":\"OK\",\"response_id\":\"58b7220fa5b740b85c949665\"}}"
+      string: "  \n\n{\"data\":{\"type\":\"gif\",\"id\":\"E7SekbIfxTWh2\",\"url\":\"http:\\/\\/giphy.com\\/gifs\\/wwe-wrestling-E7SekbIfxTWh2\",\"image_original_url\":\"http:\\/\\/media1.giphy.com\\/media\\/E7SekbIfxTWh2\\/giphy.gif\",\"image_url\":\"http:\\/\\/media1.giphy.com\\/media\\/E7SekbIfxTWh2\\/giphy.gif\",\"image_mp4_url\":\"http:\\/\\/media1.giphy.com\\/media\\/E7SekbIfxTWh2\\/giphy.mp4\",\"image_frames\":\"18\",\"image_width\":\"400\",\"image_height\":\"282\",\"fixed_height_downsampled_url\":\"http:\\/\\/media1.giphy.com\\/media\\/E7SekbIfxTWh2\\/200_d.gif\",\"fixed_height_downsampled_width\":\"284\",\"fixed_height_downsampled_height\":\"200\",\"fixed_width_downsampled_url\":\"http:\\/\\/media1.giphy.com\\/media\\/E7SekbIfxTWh2\\/200w_d.gif\",\"fixed_width_downsampled_width\":\"200\",\"fixed_width_downsampled_height\":\"141\",\"fixed_height_small_url\":\"http:\\/\\/media1.giphy.com\\/media\\/E7SekbIfxTWh2\\/100.gif\",\"fixed_height_small_still_url\":\"http:\\/\\/media1.giphy.com\\/media\\/E7SekbIfxTWh2\\/100_s.gif\",\"fixed_height_small_width\":\"142\",\"fixed_height_small_height\":\"100\",\"fixed_width_small_url\":\"http:\\/\\/media1.giphy.com\\/media\\/E7SekbIfxTWh2\\/100w.gif\",\"fixed_width_small_still_url\":\"http:\\/\\/media1.giphy.com\\/media\\/E7SekbIfxTWh2\\/100w_s.gif\",\"fixed_width_small_width\":\"100\",\"fixed_width_small_height\":\"71\",\"username\":\"\",\"caption\":\"\"},\"meta\":{\"status\":200,\"msg\":\"OK\",\"response_id\":\"58b787f758ab73398fb53967\"}}"
     http_version: 
-  recorded_at: Wed, 01 Mar 2017 19:33:35 GMT
+  recorded_at: Thu, 02 Mar 2017 02:48:23 GMT
 recorded_with: VCR 3.0.3
