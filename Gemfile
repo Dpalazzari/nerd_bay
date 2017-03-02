@@ -52,6 +52,7 @@ group :development, :test do
   gem 'shoulda-matchers', '~> 3.1'
   gem 'simplecov', :require => false, :group => :test
   gem 'rack_session_access'
+  gem 'rails-controller-testing'
 end
 
 group :development do
