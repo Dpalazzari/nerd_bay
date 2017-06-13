@@ -21,7 +21,7 @@ http_interactions:
       Server:
       - nginx
       Date:
-      - Thu, 02 Mar 2017 02:48:14 GMT
+      - Thu, 02 Mar 2017 18:15:15 GMT
       Content-Type:
       - application/json
       Transfer-Encoding:
@@ -32,11 +32,11 @@ http_interactions:
       - Accept-Encoding
     body:
       encoding: ASCII-8BIT
-      string: '{"quoteText":"Instead of saying that man is the creature of circumstance,
-        it would be nearer the mark to say that man is the architect of circumstance.
-        ", "quoteAuthor":"Thomas Carlyle", "senderName":"", "senderLink":"", "quoteLink":"http://forismatic.com/en/594321cdaf/"}'
+      string: '{"quoteText":"Happiness is not something ready made. It comes from
+        your own actions.", "quoteAuthor":"Dalai Lama", "senderName":"", "senderLink":"",
+        "quoteLink":"http://forismatic.com/en/3b14b1440d/"}'
     http_version: 
-  recorded_at: Thu, 02 Mar 2017 02:48:14 GMT
+  recorded_at: Thu, 02 Mar 2017 18:15:15 GMT
 - request:
     method: get
     uri: http://api.forismatic.com/api/1.0/?format=json&lang=en&method=getQuote
@@ -58,7 +58,7 @@ http_interactions:
       Server:
       - nginx
       Date:
-      - Thu, 02 Mar 2017 02:48:14 GMT
+      - Thu, 02 Mar 2017 18:15:15 GMT
       Content-Type:
       - application/json
       Transfer-Encoding:
@@ -69,9 +69,9 @@ http_interactions:
       - Accept-Encoding
     body:
       encoding: ASCII-8BIT
-      string: '{"quoteText":"Instead of saying that man is the creature of circumstance,
-        it would be nearer the mark to say that man is the architect of circumstance.
-        ", "quoteAuthor":"Thomas Carlyle", "senderName":"", "senderLink":"", "quoteLink":"http://forismatic.com/en/594321cdaf/"}'
+      string: '{"quoteText":"Happiness is not something ready made. It comes from
+        your own actions.", "quoteAuthor":"Dalai Lama", "senderName":"", "senderLink":"",
+        "quoteLink":"http://forismatic.com/en/3b14b1440d/"}'
     http_version: 
-  recorded_at: Thu, 02 Mar 2017 02:48:15 GMT
+  recorded_at: Thu, 02 Mar 2017 18:15:15 GMT
 recorded_with: VCR 3.0.3

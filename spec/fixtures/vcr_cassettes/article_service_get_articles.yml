@@ -33,44 +33,42 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Thu, 02 Mar 2017 02:48:16 GMT
+      - Thu, 02 Mar 2017 18:15:14 GMT
       Content-Length:
-      - '4855'
+      - '4653'
     body:
       encoding: UTF-8
-      string: '{"status":"ok","source":"ign","sortBy":"top","articles":[{"author":"Alex
-        Osborn","title":"Xbox Boss Hints at Scorpio Event Ahead of E3 - IGN","description":"Head
-        of Xbox Phil Spencer wants Microsoft''s E3 showing to be more about the games
-        rather than the hardware itself.","url":"http://www.ign.com/articles/2017/03/02/xbox-boss-hints-at-scorpio-event-ahead-of-e3?abthid=58b787239e4a918b1f000020","urlToImage":"http://assets2.ignimgs.com/2016/09/21/snaps-project-scorpio-about-e3-2016-on-ignarjpg-c1f4db765wjpg-f9a4c2_1280w.jpg","publishedAt":"2017-03-02T02:41:37Z"},{"author":"Jesse
-        Schedeen","title":"Arrow: \"Fighting Fire With Fire\" Review - IGN","description":"Let
-        us know what you thought of this week''s episode, as Team Arrow declared war
-        on Vigilante.","url":"http://www.ign.com/articles/2017/03/02/arrow-fighting-fire-with-fire-review","urlToImage":"http://assets1.ignimgs.com/2017/03/02/arrow-1280-14-1488414556594_1280w.jpg","publishedAt":"2017-03-02T02:00:45Z"},{"author":"Terri
-        Schwartz","title":"Arrow Showrunner and Prometheus Actor Explain the Season
-        5 Villain''s Reveal - IGN","description":"We spoke to showrunner Wendy Mericle
-        and the actor who plays Prometheus about the reveal of the Season 5 villain''s
-        identity.","url":"http://www.ign.com/articles/2017/03/02/arrow-showrunner-and-prometheus-actor-explain-the-season-5-villains-reveal","urlToImage":"http://assets1.ignimgs.com/2017/03/01/ar501a-0056b-1488403152625_1280w.jpg","publishedAt":"2017-03-02T02:00:34Z"},{"author":null,"title":"What
-        Horizon Zero Dawn Doesn''t Tell You - Horizon: Zero Dawn Wiki Guide - IGN","description":"What
-        Horizon Zero Dawn Doesn''t Tell You - Horizon: Zero Dawn: This page contains
-        tips, tricks, strategies and information that Horizon: Zero Dawn either explains
-        poorly or neglets to tell players entirely. KNOW...","url":"http://www.ign.com/wikis/horizon-zero-dawn/What_Horizon_Zero_Dawn_Doesn''t_Tell_You","urlToImage":"http://assets1.ignimgs.com/2015/05/27/contentplaceholderpng-967b4c.png","publishedAt":null},{"author":null,"title":"Playing
-        Call of Duty in a Real-Life Jet  - XGC - IGN Video","description":"We''re
-        pushing your favorite gamers to their limits! Can Nathan Barnatt play Call
-        of Duty: Infinite Warfare in the cockpit of a real jet, and survive IGN''s
-        Extreme Gaming Challenge?","url":"http://www.ign.com/videos/2017/03/02/playing-call-of-duty-in-a-real-life-jet-xgc","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/3/1/xgc11280-1488407485817_1280w.jpg","publishedAt":"2017-03-02T01:26:00Z"},{"author":null,"title":"The
-        GO Trilogy Stories - Part One: Hitman GO - IGN Video","description":"Check
-        out what went into the making of Square-Enix Montreal''s awesome game.","url":"http://www.ign.com/videos/2017/03/02/the-go-trilogy-stories-part-one-hitman-go","urlToImage":"http://assets1.ignimgs.com/thumbs/2017/03/01/3-55f8a2fa910a0fea14b813b6de1f010a-1488417392/frame_0000_1280w.jpg","publishedAt":"2017-03-02T01:14:00Z"},{"author":null,"title":"Here
-        Are 4 Very Weird Pieces of Nintendo History - IGN Video","description":"They
-        weren''t always the family-friendly company we know and love...","url":"http://www.ign.com/videos/2017/03/02/here-are-4-very-weird-pieces-of-nintendo-history","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/27/url-1488226454604_1280w.jpg","publishedAt":"2017-03-02T01:00:00Z"},{"author":"Alex
-        Gilyadov","title":"Justice League: Zack Snyder Releases Brief Aquaman Underwater
-        Footage - IGN","description":"Zack Snyder has dropped a brief clip from Justice
-        League of Aquaman swimming underwater.","url":"http://www.ign.com/articles/2017/03/02/justice-league-zack-snyder-releases-brief-aquaman-underwater-footage?abthid=58b781b0933379b21d000017","urlToImage":"http://assets2.ignimgs.com/2016/08/10/aqua-1280jpg-fccc70_1280w.jpg","publishedAt":"2017-03-02T00:58:41Z"},{"author":"Ryan
-        McCaffrey","title":"Unlocked 285: Phil Spencer Joins Us, Talks Scorpio - IGN","description":"Head
-        of Xbox Phil Spencer joins us for the entire episode to talk Scorpio, Xbox
-        Game Pass, E3, and much more!","url":"http://www.ign.com/articles/2017/03/02/unlocked-285-phil-spencer-joins-us-talks-scorpio","urlToImage":"http://assets1.ignimgs.com/2017/03/02/ms-execs-phil-spencer-cl-1280-1488414840933_1280w.jpg","publishedAt":"2017-03-02T00:50:46Z"},{"author":"Alanah
-        Pearce","title":"This Week''s IGN Newsletter: Our Editor-In-Chief''s Favorite
-        Things! - IGN","description":"IGN has two newsletters - one for awesome gaming
-        deals that''ll save you a bunch of money, and another for the most breaking,
-        important news and reviews on the site.","url":"http://www.ign.com/articles/2017/03/02/this-weeks-ign-newsletter-our-editor-in-chiefs-favorite-things?abthid=58b769bd4f5bf2b41d000016","urlToImage":"http://assets2.ignimgs.com/2015/07/15/ign-logojpg-645844_1280w.jpg","publishedAt":"2017-03-02T00:10:57Z"}]}'
+      string: '{"status":"ok","source":"ign","sortBy":"top","articles":[{"author":"Adam
+        Sligar","title":"Apply to IGN''s 2017 Code-Foo Internship Program! - IGN","description":"Are
+        you studying to be a software engineer? You can sign up for a paid, six-week
+        internship at IGN in San Francisco.","url":"http://www.ign.com/articles/2017/02/17/apply-to-igns-2017-code-foo-internship-program?abthid=58ae2998346821d068000015","urlToImage":"http://assets1.ignimgs.com/2017/02/17/code-foo-blogroll-1487359419479_1280w.jpg","publishedAt":"2017-02-18T01:00:07Z"},{"author":null,"title":"The
+        First 21 Minutes of Snipperclips Gameplay - IGN Video","description":"Check
+        out the first few levels of Nintendo Switch''s adorable multiplayer puzzle
+        game.","url":"http://www.ign.com/videos/2017/03/02/the-first-21-minutes-of-snipperclips-gameplay","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/3/2/snipperclips-14843323319611280w-1488472882385_1280w.jpg","publishedAt":"2017-03-02T16:57:00Z"},{"author":null,"title":"Cheats
+        and Secrets - Horizon: Zero Dawn Wiki Guide - IGN","description":"Cheats and
+        Secrets - Horizon: Zero Dawn: This page collects cheats, secrets, exploits,
+        and other tricks for Horizon: Zero Dawn that allow you to get easy XP, infinite
+        ammo, and invincibility...","url":"http://www.ign.com/wikis/horizon-zero-dawn/Cheats_and_Secrets","urlToImage":"http://oystatic.ignimgs.com/src/core/img/widgets/global/page/ign-logo-100x100.jpg","publishedAt":null},{"author":null,"title":"Hugh
+        Jackman on What Scares Logan the Most - IGN Video","description":"Hugh Jackman,
+        Patrick Stewart and director James Mangold discuss how Logan tells a different,
+        more realistic kind of X-Men story, and how the film could be predicting our
+        own future.","url":"http://www.ign.com/videos/2017/03/02/hugh-jackman-on-what-scares-logan-the-most","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/3/1/unnamed-3-1488415213225_1280w.jpg","publishedAt":"2017-03-02T16:05:00Z"},{"author":"Alex
+        Osborn","title":"Why Microsoft Moved Its E3 Conference - IGN","description":"Before
+        Bethesda started holding its own conference on Sunday, Microsoft had the first
+        briefing of E3 and Phil Spencer wanted that back.","url":"http://www.ign.com/articles/2017/03/02/why-microsoft-moved-its-e3-conference","urlToImage":"http://assets1.ignimgs.com/2014/11/11/philjpg-89bfc4_1280w.jpg","publishedAt":"2017-03-02T16:00:30Z"},{"author":null,"title":"Horizon
+        Zero Dawn: Taking On a Terrifyingly Huge Bird Robot - IGN Video","description":"Watch
+        as face a menacing foe, with a unfair aerial advantage.","url":"http://www.ign.com/videos/2017/03/02/horizon-zero-dawn-taking-on-a-terrifyingly-huge-bird-robot","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/2/24/flying-robot-1487962245592_1280w.jpg","publishedAt":"2017-03-02T16:00:00Z"},{"author":"Joe
+        Skrebels","title":"Nintendo Switch: Save Data Stored Internally Only, Cannot
+        Currently Be Transferred - IGN","description":"Switch save games will always
+        be on the console''s internal memory, with no option to move them.","url":"http://www.ign.com/articles/2017/03/02/nintendo-switch-save-data-stored-internally-only-cannot-currently-be-transferred","urlToImage":"http://assets1.ignimgs.com/2016/10/21/nswitch1280-2jpg-fe1df0_1280w.jpg","publishedAt":"2017-03-02T15:52:50Z"},{"author":"Jesse
+        Schedeen","title":"Comic Book Reviews for March 1, 2017 - IGN","description":"This
+        week''s comic book lineup includes brutal new chapters of Batman and The Walking
+        Dead and a new series starring Miss America Chavez.","url":"http://www.ign.com/articles/2017/03/02/comic-book-reviews-for-march-1-2017","urlToImage":"http://assets1.ignimgs.com/2017/03/01/rsz-gallerycomics-1920x1080-20170301-bm-cv18-589ba44d087b7839781224-1488392600215_1280w.jpg","publishedAt":"2017-03-02T15:00:07Z"},{"author":"Eric
+        Song","title":"Daily Deals: 10% off New March Loot Gaming Crate - IGN","description":"$100
+        Dell Gift Card w/ $250 Xbox One S Battlefield Bundle, $40 Resident Evil 7,
+        A King''s Tale: Final Fantasy XV for FREE, and more","url":"http://www.ign.com/articles/2017/03/02/daily-deals-loot-gaming-crate","urlToImage":"http://assets1.ignimgs.com/2017/03/02/lootgaming-1280-1488464855539_1280w.jpg","publishedAt":"2017-03-02T14:28:32Z"},{"author":null,"title":"Tekken
+        7 - Eddy Gordo Reveal Trailer - IGN Video","description":"The classic capoeira
+        character makes his grand entrance in Namco''s latest fighter.","url":"http://www.ign.com/videos/2017/03/02/tekken-7-eddy-gordo-reveal-trailer","urlToImage":"http://assets1.ignimgs.com/thumbs/userUploaded/2017/3/2/untitled-1-1488464549006_1280w.jpg","publishedAt":"2017-03-02T14:17:00Z"}]}'
     http_version: 
-  recorded_at: Thu, 02 Mar 2017 02:48:22 GMT
+  recorded_at: Thu, 02 Mar 2017 18:15:22 GMT
 recorded_with: VCR 3.0.3
