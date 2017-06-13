@@ -21,11 +21,11 @@ http_interactions:
       Server:
       - openresty
       Date:
-      - Thu, 02 Mar 2017 02:48:26 GMT
+      - Thu, 02 Mar 2017 18:15:25 GMT
       Content-Type:
       - application/json; charset=utf-8
       Content-Length:
-      - '441'
+      - '436'
       Connection:
       - keep-alive
       X-Cache-Key:
@@ -38,8 +38,8 @@ http_interactions:
       - GET, POST
     body:
       encoding: UTF-8
-      string: '{"coord":{"lon":-104.98,"lat":39.74},"weather":[{"id":802,"main":"Clouds","description":"scattered
-        clouds","icon":"03n"}],"base":"stations","main":{"temp":3.15,"pressure":1022,"humidity":24,"temp_min":2,"temp_max":4},"visibility":16093,"wind":{"speed":2.1,"deg":120},"clouds":{"all":40},"dt":1488419760,"sys":{"type":1,"id":546,"message":0.4111,"country":"US","sunrise":1488461453,"sunset":1488502414},"id":5419384,"name":"Denver","cod":200}'
+      string: '{"coord":{"lon":-104.98,"lat":39.74},"weather":[{"id":800,"main":"Clear","description":"clear
+        sky","icon":"01d"}],"base":"stations","main":{"temp":6.56,"pressure":1028,"humidity":17,"temp_min":5,"temp_max":8},"visibility":16093,"wind":{"speed":1.12,"deg":89.004},"clouds":{"all":1},"dt":1488476160,"sys":{"type":1,"id":602,"message":0.3714,"country":"US","sunrise":1488461394,"sunset":1488502456},"id":5419384,"name":"Denver","cod":200}'
     http_version: 
-  recorded_at: Thu, 02 Mar 2017 02:48:25 GMT
+  recorded_at: Thu, 02 Mar 2017 18:15:24 GMT
 recorded_with: VCR 3.0.3
